@@ -1,0 +1,212 @@
+[35m_data/publications.yml[m[36m:[m[32m18[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m42[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m62[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m80[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m97[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m134[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m154[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m170[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m179[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m192[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m209[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m231[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m267[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m286[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m305[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m316[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m330[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m350[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m365[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m380[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m391[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m408[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m425[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m650[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m665[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m682[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m698[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m713[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m731[m[36m:[m    key[1;31mwords[m:
+[35m_data/publications.yml[m[36m:[m[32m746[m[36m:[m    key[1;31mwords[m:
+[35m_data/resources/pipelines.yml[m[36m:[m[32m3[m[36m:[m#   key[1;31mwords[m:
+[35m_data/resources/pipelines.yml[m[36m:[m[32m12[m[36m:[m#   key[1;31mwords[m:
+[35m_data/resources/pipelines.yml[m[36m:[m[32m21[m[36m:[m#   key[1;31mwords[m:
+[35m_data/resources/pipelines.yml[m[36m:[m[32m30[m[36m:[m#   key[1;31mwords[m:
+[35m_data/resources/pipelines.yml[m[36m:[m[32m38[m[36m:[m#   key[1;31mwords[m:
+[35m_includes/paper.html[m[36m:[m[32m5[m[36m:[m      {% if post.key[1;31mwords[m.size >= 1 %}
+[35m_includes/paper.html[m[36m:[m[32m7[m[36m:[m        {% for keyword in post.key[1;31mwords[m %}
+[35m_includes/resource.html[m[36m:[m[32m5[m[36m:[m      {% if post.key[1;31mwords[m.size >= 1 %}
+[35m_includes/resource.html[m[36m:[m[32m7[m[36m:[m        {% for keyword in post.key[1;31mwords[m %}
+[35m_includes/search.html[m[36m:[m[32m37[m[36m:[m        {% assign tag_[1;31mwords[m = site_tags | split:',' | sort %}
+[35m_includes/search.html[m[36m:[m[32m40[m[36m:[m        {% capture this_word %}{{ tag_[1;31mwords[m[item] | strip_newlines }}{% endcapture %}
+[35m_pages/research.html[m[36m:[m[32m24[m[36m:[m{% assign tag_[1;31mwords[m = site_tags | split:',' | sort %}
+[35m_pages/research.html[m[36m:[m[32m42[m[36m:[m          {% capture this_word %}{{ tag_[1;31mwords[m[item] | strip_newlines }}{% endcapture %}
+[35m_pages/research.html[m[36m:[m[32m51[m[36m:[m  {% capture this_word %}{{ tag_[1;31mwords[m[item] | strip_newlines }}{% endcapture %}
+[35m_pages/tags.html[m[36m:[m[32m7[m[36m:[m{% assign tag_[1;31mwords[m = site_tags | split:',' | sort %}
+[35m_pages/tags.html[m[36m:[m[32m24[m[36m:[m          {% capture this_word %}{{ tag_[1;31mwords[m[item] | strip_newlines }}{% endcapture %}
+[35m_pages/tags.html[m[36m:[m[32m33[m[36m:[m  {% capture this_word %}{{ tag_[1;31mwords[m[item] | strip_newlines }}{% endcapture %}
+[35mpublications.yml[m[36m:[m[32m10[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m164[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m172[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m187[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m277[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m320[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m392[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m408[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m450[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m510[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m516[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m526[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m681[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m708[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m728[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m882[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m904[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m927[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1034[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1064[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1093[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1119[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1127[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1134[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1161[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1173[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1192[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1325[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1354[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1364[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1519[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1526[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1533[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1576[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1584[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1606[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1620[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1650[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1679[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1684[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1726[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1742[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1756[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1776[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1789[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1796[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1828[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1841[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1871[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1882[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1900[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1933[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1977[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m1997[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2004[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2018[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2043[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2066[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2075[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2096[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2110[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2136[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2142[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2163[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2178[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2185[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2211[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2219[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2236[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2260[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2277[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2287[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2319[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2331[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2351[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2359[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2370[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2383[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2395[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2431[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2442[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2465[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2484[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2496[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2508[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2516[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2526[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2537[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2552[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2571[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2585[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2596[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2604[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2612[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2629[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2660[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2667[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2682[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2695[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2704[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2712[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2729[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2742[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2754[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2776[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2786[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2807[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2816[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2828[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2836[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2843[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2947[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2957[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2965[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m2983[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3000[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3017[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3032[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3042[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3051[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3061[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3075[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3086[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3093[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3119[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3130[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3149[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3163[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3181[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3216[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3235[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3242[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3277[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3349[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3358[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3380[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3392[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3400[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3414[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3448[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3503[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3511[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3517[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3565[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3582[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3587[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3595[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3607[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3624[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3640[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3654[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3668[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3682[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3700[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3712[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3741[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3752[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3762[m[36m:[m  key[1;31mwords[m: []
+[35mpublications.yml[m[36m:[m[32m3782[m[36m:[m  key[1;31mwords[m: []
+[35mpublications/pubmed_abstracts_to_yml.py[m[36m:[m[32m110[m[36m:[mdef assign_key[1;31mwords[m(abstract: str, title: str, kwmap: Dict[str, List[str]]) -> List[str]:
+[35mpublications/pubmed_abstracts_to_yml.py[m[36m:[m[32m144[m[36m:[m    key[1;31mwords[m = assign_key[1;31mwords[m(abstract, title, kwmap)
+[35mpublications/pubmed_abstracts_to_yml.py[m[36m:[m[32m154[m[36m:[m        "key[1;31mwords[m": key[1;31mwords[m,
+[35mpublications/pubmed_abstracts_to_yml.py[m[36m:[m[32m165[m[36m:[m        "--key[1;31mwords[m-json",
+[35mpublications/pubmed_abstracts_to_yml.py[m[36m:[m[32m171[m[36m:[m    kwmap = json.loads(args.key[1;31mwords[m_json)
+[35mpublications/pubmed_abstracts_to_yml.py[m[36m:[m[32m173[m[36m:[m        raise ValueError("--key[1;31mwords[m-json must decode to a dict[str, list[str]]")

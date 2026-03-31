@@ -1,0 +1,14 @@
+
+- theme: Methylation Analysis
+  image: /images/misc/resources_theme/methylation.png
+  items:
+  - title: "dnaEPICO: Analysis Pipeline for Illumina DNA Methylation Array Data"
+    description: The aim of dnaEPICO is to provide a modular, reproducible, and pipeline for the preprocessing and statistical analysis of Illumina DNA methylation array data (EPICv2, EPIC and 450K).
+      - Neurogenomics
+      - Epigenomics
+      - Illumina
+      - DNA Methylation
+      - Bioconductor
+    primary_link: https://github.com/paulYRP/dnaEPICO
+    github: https://github.com/paulYRP/dnaEPICO
+    # sourceforge: https://sourceforge.net/projects/lofreq/

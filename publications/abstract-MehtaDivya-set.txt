@@ -1,0 +1,2040 @@
+1. Epigenomes. 2025 Oct 6;9(4):39. doi: 10.3390/epigenomes9040039.
+
+A Pilot Epigenome-Wide Study of Posttraumatic Growth: Identifying Novel 
+Candidates for Future Research.
+
+Rubens M(1)(2), Pinto PR(1)(2), Sathyanarayanan A(1)(2)(3), Miller O(4), Mullens 
+AB(5), Bruenig D(1)(2)(3), Obst P(4), Shakespeare-Finch J(4), Mehta D(1)(2)(3).
+
+Author information:
+(1)Centre for Genomics and Personalised Health, Queensland University of 
+Technology (QUT), Kelvin Grove, QLD 4059, Australia.
+(2)School of Biomedical Sciences, Queensland University of Technology (QUT), 
+Brisbane, QLD 4000, Australia.
+(3)Centre for Data Science, Queensland University of Technology (QUT), Brisbane, 
+QLD 4000, Australia.
+(4)School of Psychology and Counselling, Queensland University of Technology 
+(QUT), Kelvin Grove, QLD 4059, Australia.
+(5)School of Psychology and Wellbeing, University of Southern Queensland (USQ), 
+Toowoomba, QLD 4350, Australia.
+
+BACKGROUND: Posttraumatic growth (PTG) refers to positive psychological change 
+following trauma. While its psychological aspects are well-documented, the 
+biological mechanisms remain unclear. Epigenetic changes, such as DNA 
+methylation (DNAm), may offer insight into PTG's neurobiological basis.
+AIMS: This study aimed to identify epigenetic markers associated with PTG using 
+an epigenome-wide association study (EWAS), the first of its kind in a 
+trauma-exposed population.
+METHODS: A longitudinal EWAS design was used to assess DNAm before and after 
+trauma exposure in first-year paramedicine students (n = 39). Genome-wide 
+methylation data were analyzed for associations with PTG, applying 
+epigenome-wide and gene-wise statistical thresholds. Pathway enrichment analysis 
+was also conducted.
+RESULTS: The study identified two CpGs (cg09559117 and cg05351447) within the 
+PCDHA1/PCDHA2 and PDZD genes significantly associated with PTG at the 
+epigenome-wide threshold (p < 9.42 × 10-8); these were replicated in an 
+independent sample. DNAm in 5 CpGs across known PTSD candidate genes ANK3, 
+DICER1, SKA2, IL12B and TPH1 were significantly associated with PTG after 
+gene-wise Bonferroni correction. Pathway analysis revealed that PTG-associated 
+genes were overrepresented in the Adenosine triphosphate Binding Cassette (ABC) 
+transporters pathway (p = 2.72 × 10-4).
+CONCLUSIONS: These results identify genes for PTG, improving our understanding 
+of the neurobiological underpinnings of PTG.
+
+DOI: 10.3390/epigenomes9040039
+PMCID: PMC12551033
+PMID: 41133714
+
+Conflict of interest statement: There were no commercial sponsors or commercial 
+relationships related to the current work.
+
+
+2. Clin Epigenetics. 2023 Dec 12;15(1):190. doi: 10.1186/s13148-023-01604-8.
+
+Alterations in DNA methylation associate with reduced migraine and headache days 
+after medication withdrawal treatment in chronic migraine patients: a 
+longitudinal study.
+
+Mehta D(#)(1)(2)(3), de Boer I(#)(4), Sutherland HG(#)(1)(3), Pijpers JA(4), 
+Bron C(1)(3), Bainomugisa C(1)(2)(3), Haupt LM(1)(3), van den Maagdenberg 
+AMJM(4)(5), Griffiths LR(#)(1), Nyholt DR(#)(6)(7)(8), Terwindt GM(#)(9).
+
+Author information:
+(1)Centre for Genomics and Personalised Health, Queensland University of 
+Technology, 60 Musk Avenue, Brisbane, QLD, 4059, Australia.
+(2)Centre for Data Science, Queensland University of Technology, 2 George 
+Street, Brisbane, QLD, 4000, Australia.
+(3)School of Biomedical Sciences, Faculty of Health, Queensland University of 
+Technology, 2 George Street, Brisbane, QLD, 4000, Australia.
+(4)Department of Neurology, Leiden University Medical Center, Albinusdreef 2, PO 
+Box 9600, 2300 RC, Leiden, The Netherlands.
+(5)Department of Human Genetics, Leiden University Medical Center, Albinusdreef 
+2, PO Box 9600, 2300 RC, Leiden, The Netherlands.
+(6)Centre for Genomics and Personalised Health, Queensland University of 
+Technology, 60 Musk Avenue, Brisbane, QLD, 4059, Australia. d.nyholt@qut.edu.au.
+(7)Centre for Data Science, Queensland University of Technology, 2 George 
+Street, Brisbane, QLD, 4000, Australia. d.nyholt@qut.edu.au.
+(8)School of Biomedical Sciences, Faculty of Health, Queensland University of 
+Technology, 2 George Street, Brisbane, QLD, 4000, Australia. 
+d.nyholt@qut.edu.au.
+(9)Department of Neurology, Leiden University Medical Center, Albinusdreef 2, PO 
+Box 9600, 2300 RC, Leiden, The Netherlands. g.m.terwindt@lumc.nl.
+(#)Contributed equally
+
+BACKGROUND: Chronic migraine, a highly disabling migraine subtype, affects 
+nearly 2% of the general population. Understanding migraine chronification is 
+vital for developing better treatment and prevention strategies. An important 
+factor in the chronification of migraine is the overuse of acute headache 
+medication. However, the mechanisms behind the transformation of episodic 
+migraine to chronic migraine and vice versa have not yet been elucidated. We 
+performed a longitudinal epigenome-wide association study to identify DNA 
+methylation (DNAm) changes associated with treatment response in patients with 
+chronic migraine and medication overuse as part of the Chronification and 
+Reversibility of Migraine clinical trial. Blood was taken from patients with 
+chronic migraine (n = 98) at baseline and after a 12-week medication withdrawal 
+period. Treatment responders, patients with ≥ 50% reduction in monthly headache 
+days (MHD), were compared with non-responders to identify DNAm changes 
+associated with treatment response. Similarly, patients with ≥ 50% versus < 50% 
+reduction in monthly migraine days (MMD) were compared.
+RESULTS: At the epigenome-wide significant level (p < 9.42 × 10-8), a 
+longitudinal reduction in DNAm at an intronic CpG site (cg14377273) within the 
+HDAC4 gene was associated with MHD response following the withdrawal of acute 
+medication. HDAC4 is highly expressed in the brain, plays a major role in 
+synaptic plasticity, and modulates the expression and release of several 
+neuroinflammation markers which have been implicated in migraine 
+pathophysiology. Investigating whether baseline DNAm associated with treatment 
+response, we identified lower baseline DNAm at a CpG site (cg15205829) within 
+MARK3 that was significantly associated with MMD response at 12 weeks.
+CONCLUSIONS: Our findings of a longitudinal reduction in HDAC4 DNAm status 
+associated with treatment response and baseline MARK3 DNAm status as an early 
+biomarker for treatment response, provide support for a role of pathways related 
+to chromatin structure and synaptic plasticity in headache chronification and 
+introduce HDAC4 and MARK3 as novel therapeutic targets.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s13148-023-01604-8
+PMCID: PMC10717674
+PMID: 38087366 [Indexed for MEDLINE]
+
+Conflict of interest statement: D. Mehta reports no competing interests. I. de 
+Boer reports grants from Dutch Heart Foundation and the International Retinal 
+Research Foundation (IRRF). H.G. Sutherland, J.A. Pijpers, C. Bron, C. 
+Bainomugisa and L.M. Haupt report no competing interests. L.R. Griffiths reports 
+migraine research funding from the Australian National Health and Medical 
+Research Council (NHMRC-APP1122387), US Migraine Research Foundation, US Dept of 
+Defence and Teva. A.M.J.M. van den Maagdenberg reports grants or consultancy 
+support of Schedule 1 Therapeutics, Praxis Precision Medicine and AbbVie and 
+independent support from Dutch Research Council (NWO and ZonMW) and the European 
+Community. D.R. Nyholt reports migraine research funding unrelated to this study 
+from the Australian National Health and Medical Research Council, US Migraine 
+Research Foundation, US Department of Defence and Teva. G.M. Terwindt reports 
+grants or consultancy support from Novartis, Lilly, Teva, Allergan, Lundbeck and 
+independent support from Dutch Research Council (NWO and ZonMW), European 
+Community, Dutch Heart Foundation, Dutch Brain Foundation, IRRF, and Dioraphte.
+
+
+3. Child Psychiatry Hum Dev. 2023 Dec;54(6):1723-1736. doi: 
+10.1007/s10578-022-01365-0. Epub 2022 May 26.
+
+Towards Preventative Psychiatry: Concurrent and Longitudinal Predictors of 
+Postnatal Maternal-Infant Bonding.
+
+Doyle FL(1)(2), Dickson SJ(3)(4), Eapen V(5), Frick PJ(6), Kimonis ER(7), Hawes 
+DJ(3), Moul C(3), Richmond JL(7), Mehta D(8), Dadds MR(3).
+
+Author information:
+(1)School of Psychology, Faculty of Science, University of Sydney, 2006, Sydney, 
+NSW, Australia. f.doyle@westernsydney.edu.au.
+(2)School of Psychology; MARCS Institute for Brain Behaviour and Development; 
+Transforming early Education And Child Health Research Centre, Translational 
+Health Research Institute, Western Sydney University, 2750, Penrith, NSW, 
+Australia. f.doyle@westernsydney.edu.au.
+(3)School of Psychology, Faculty of Science, University of Sydney, 2006, Sydney, 
+NSW, Australia.
+(4)Faculty of Medicine, Health, and Human Sciences, Macquarie University, 2109, 
+Sydney, NSW, Australia.
+(5)School of Psychiatry, Faculty of Medicine, University of New South Wales, 
+2052, Kensington, NSW, Australia.
+(6)Department of Psychology, Louisiana State University, 70803, Baton Rouge, LA, 
+USA.
+(7)School of Psychology, University of New South Wales, 2052, Kensington, NSW, 
+Australia.
+(8)Centre for Genomics and Personalised Health, Faculty of Health, Institute of 
+Health and Biomedical Innovation, Queensland University of Technology (QUT), 
+Kelvin Grove, 4059, Brisbane, Queensland, Australia.
+
+Maternal-infant bonding is important for children's positive development. Poor 
+maternal-infant bonding is a risk factor for negative mother and infant 
+outcomes. Although researchers have examined individual predictors of 
+maternal-infant bonding, studies typically do not examine several concurrent and 
+longitudinal predictors within the same model. This study aimed to evaluate the 
+unique and combined predictive power of cross-sectional and longitudinal 
+predictors of maternal-infant bonding. Participants were 372 pregnant women 
+recruited from an Australian hospital. Data were collected from mothers at 
+antenatal appointments (T0), following their child's birth (T1), and at a 
+laboratory assessment when their child was 5-11-months-old (T2). Poorer bonding 
+at T2 was predicted at T0 by younger maternal age, higher education, and higher 
+antenatal depressive symptoms. Poorer bonding at T2 was predicted at T1 by 
+younger maternal age, higher education, and higher postnatal depressive 
+symptoms. Poorer bonding at T2 was predicted at T2 by younger maternal age, 
+higher education, higher postnatal depression symptoms, higher concurrent 
+perceived social support, and more difficult infant temperament, when 
+controlling for child age at T2. To promote positive maternal-infant bonding, 
+global and targeted interventions in the perinatal period may benefit from 
+targeting maternal psychopathology, perceived lack of social support, and coping 
+with difficult infant temperament.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s10578-022-01365-0
+PMCID: PMC10582133
+PMID: 35616764 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+4. J Psychiatr Res. 2023 Sep;165:7-13. doi: 10.1016/j.jpsychires.2023.07.007. Epub 
+2023 Jul 8.
+
+The association of epigenetic age acceleration and depressive and anxiety 
+symptom severity among children recently exposed to substantiated maltreatment.
+
+Zhang ZZ(1), Moeckel C(2), Mustafa M(3), Pham H(4), Olson AE(5), Mehta D(6), 
+Dorn LD(7), Engeland CG(8), Shenk CE(9).
+
+Author information:
+(1)Department of Psychology, The Pennsylvania State University, University Park, 
+PA, USA. Electronic address: zzz163@psu.edu.
+(2)The Pennsylvania State University College of Medicine, Hershey, PA, USA. 
+Electronic address: cmm8720@psu.edu.
+(3)The Pennsylvania State University College of Medicine, Hershey, PA, USA. 
+Electronic address: manalumustafa16@gmail.com.
+(4)The Child Study Center, Yale University, New Haven, CT, USA. Electronic 
+address: h.pham@yale.edu.
+(5)Department of Human Development and Family Studies, The Pennsylvania State 
+University, University Park, PA, USA. Electronic address: aeo442@psu.edu.
+(6)Centre for Genomics and Personalised Health, Queensland University of 
+Technology, Brisbane, Queensland, Australia; School of Biomedical Sciences, 
+Queensland University of Technology, Brisbane, Queensland, Australia. Electronic 
+address: divya.mehta@qut.edu.au.
+(7)Ross and Carol Nese College of Nursing, The Pennsylvania State University, 
+University Park, PA, USA. Electronic address: dun@psu.edu.
+(8)Ross and Carol Nese College of Nursing, The Pennsylvania State University, 
+University Park, PA, USA; Department of Biobehavioral Health, The Pennsylvania 
+State University, University Park, PA, USA. Electronic address: cge2@psu.edu.
+(9)The Pennsylvania State University College of Medicine, Hershey, PA, USA; 
+Department of Human Development and Family Studies, The Pennsylvania State 
+University, University Park, PA, USA. Electronic address: ces140@psu.edu.
+
+Child maltreatment is a major risk factor for both depressive and anxiety 
+disorders. However, many children exposed to maltreatment never meet diagnostic 
+threshold for either disorder while experiencing only transitory symptoms 
+post-exposure. Recent research suggests DNA methylation adds predictive value in 
+explaining variation in the onset and course of multiple psychiatric disorders 
+following exposure to child maltreatment. Epigenetic age acceleration (EAA), the 
+biological aging of cells not attributable to chronological aging, is a 
+stress-sensitive biomarker capturing genome-wide variation in DNA methylation 
+with the potential to identify children who have been maltreated at greatest 
+risk for depressive and anxiety disorders. The current study examined two EAA 
+clocks appropriate for the pediatric population, the Horvath and Pediatric 
+Buccal Epigenetic (PedBE) clocks, and their associations with depressive and 
+anxiety symptom severity following child maltreatment. Children (N = 71) 8-15 
+years of age, all of whom were exposed to substantiated child maltreatment in 
+the 12 months prior to study entry, were enrolled. Risk modeling adjusting for 
+several confounders revealed that EAA estimated via the Horvath clock was 
+significantly associated with more severe depressive and anxiety symptoms. The 
+PedBE clock was not associated with either depressive or anxiety symptom 
+severity. Sensitivity analyses demonstrated that EAA via the Horvath clock 
+robustly predicted depressive and anxiety symptom severity across multiple 
+modeling scenarios. Our findings advance existing research suggesting EAA, as 
+estimated with the Horvath clock, may be a promising biomarker for identifying 
+children at greatest risk for more severe depressive and anxiety symptoms 
+following maltreatment.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jpsychires.2023.07.007
+PMCID: PMC10529086
+PMID: 37441927 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest No known 
+conflicts of interest were reported by authors.
+
+
+5. Neurosci Biobehav Rev. 2023 Apr;147:105079. doi: 
+10.1016/j.neubiorev.2023.105079. Epub 2023 Feb 9.
+
+Childhood maltreatment and DNA methylation: A systematic review.
+
+Rubens M(1), Bruenig D(1), Adams JAM(1), Suresh SM(1), Sathyanarayanan A(1), 
+Haslam D(2), Shenk CE(3), Mathews B(4), Mehta D(5).
+
+Author information:
+(1)Centre for Genomics and Personalised Health, Faculty of Health, Queensland 
+University of Technology (QUT), Kelvin Grove, Queensland 4059, Australia; School 
+of Biomedical Sciences, Faculty of Health, Queensland University of Technology 
+(QUT), Kelvin Grove, Queensland 4059, Australia.
+(2)Australian Centre for Health Law Research, School of Law, Queensland 
+University of Technology (QUT), Australia; Parenting and Family Support Centre, 
+University of Queensland, Australia.
+(3)Department of Human Development and Family Studies, The Pennsylvania State 
+University, USA; Department of Pediatrics, The Pennsylvania State University 
+College of Medicine, USA.
+(4)Australian Centre for Health Law Research, School of Law, Queensland 
+University of Technology (QUT), Australia; Bloomberg School of Public Health, 
+Johns Hopkins University, USA.
+(5)Centre for Genomics and Personalised Health, Faculty of Health, Queensland 
+University of Technology (QUT), Kelvin Grove, Queensland 4059, Australia; School 
+of Biomedical Sciences, Faculty of Health, Queensland University of Technology 
+(QUT), Kelvin Grove, Queensland 4059, Australia. Electronic address: 
+divya.mehta@qut.edu.au.
+
+Child maltreatment (CM) encompasses sexual abuse, physical abuse, emotional 
+abuse, neglect, and exposure to domestic and family violence. Epigenetic 
+research investigating CM has focused on differential DNA methylation (DNAm) in 
+genes associated with the stress response, but there has been limited evaluation 
+of the specific effects of subtypes of CM. This systematic review of literature 
+investigating DNAm associated with CM in non-clinical populations aimed to 
+summarise the approaches currently used in research, how the type of 
+maltreatment and age of exposure were encoded via methylation, and which genes 
+have consistently been associated with CM. A total of fifty-four papers were 
+eligible for review, including forty-one candidate gene studies, eight 
+epigenome-wide association studies, and five studies with a mixed design. The 
+ways in which the various forms of CM were conceptualised and measured varied 
+between papers. Future studies would benefit from assessments that employ 
+conceptually robust definitions of CM, and that capture important contextual 
+information such as age of exposure and subtype of CM.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neubiorev.2023.105079
+PMID: 36764637 [Indexed for MEDLINE]
+
+
+6. Eur Neuropsychopharmacol. 2023 Apr;69:26-46. doi: 
+10.1016/j.euroneuro.2023.01.001. Epub 2023 Jan 25.
+
+Multi-omics data integration methods and their applications in psychiatric 
+disorders.
+
+Sathyanarayanan A(1), Mueller TT(2), Ali Moni M(3), Schueler K(4); ECNP TWG 
+Network members(5); Baune BT(6), Lio P(7), Mehta D(8), Baune BT(9), Dierssen 
+M(10), Ebert B(11), Fabbri C(12), Fusar-Poli P(13), Gennarelli M(14), Harmer 
+C(15), Howes OD(16), Janzing JGE(17), Lio P(18), Maron E(19), Mehta D(20), 
+Minelli A(14), Nonell L(21), Pisanu C(22), Potier MC(23), Rybakowski F(24), 
+Serretti A(25), Squassina A(22), Stacey D(26), van Westrhenen R(27), Xicota 
+L(23).
+
+Author information:
+(1)Queensland University of Technology, Centre for Genomics and Personalised 
+Health, School of Biomedical Sciences, Faculty of Health, Kelvin Grove, 
+Queensland 4059, Australia.
+(2)Institute for Artificial Intelligence and Informatics in Medicine, TU Munich, 
+80333 Munich, Germany.
+(3)Artificial Intelligence and Digital Health Data Science, School of Health and 
+Rehabilitation Sciences, Faculty of Health and Behavioural Sciences, The 
+University of Queensland, St Lucia, QLD, 4072, Australia.
+(4)Clinic for Psychosomatics, Hospital zum Heiligen Geist, Frankfurt am Main, 
+Germany; Frankfurt Psychoanalytic Institute, Frankfurt am Main, Germany.
+(5)European College of Neuropsychopharmacology (ECNP) Pharmacogenomics & 
+Transcriptomics Network list of collaborators.
+(6)Department of Psychiatry and Psychotherapy, University of Münster, Germany; 
+Department of Psychiatry, Melbourne Medical School, University of Melbourne, 
+Australia; The Florey Institute of Neuroscience and Mental Health, The 
+University of Melbourne, Australia.
+(7)Department of Computer Science and Technology, University of Cambridge, 
+Cambridge, United Kingdom.
+(8)Queensland University of Technology, Centre for Genomics and Personalised 
+Health, School of Biomedical Sciences, Faculty of Health, Kelvin Grove, 
+Queensland 4059, Australia. Electronic address: divya.mehta@qut.edu.au.
+(9)Department of Psychiatry and Psychotherapy, University of Münster, Germany; 
+Department of Psychiatry, Melbourne Medical School, University of 
+Melbourne, Australia; The Florey Institute of Neuroscience and Mental Health, 
+The University of Melbourne, Australia.
+(10)Center for Genomic Regulation (CRG), The Barcelona Institute of Science and 
+Technology; Universitat Pompeu Fabra (UPF), Barcelona, Spain.
+(11)Medical Strategy & Communication, H. Lundbeck A/S, Valby, Denmark.
+(12)Department of Biomedical and NeuroMotor Sciences, University of Bologna, 
+Bologna, Italy; Institute of Psychiatry, Psychology and Neuroscience, King's 
+College London, London, United Kingdom.
+(13)Early Psychosis: Intervention and Clinical-detection (EPIC) Lab, Department 
+of Psychosis Studies, King's College London, United Kingdom; Department of Brain 
+and Behavioral Sciences, University of Pavia, Pavia, Italy.
+(14)Department of Molecular and Translational Medicine, University of Brescia; 
+Genetics Unit, IRCCS Istituto Centro San Giovanni di Dio Fatebenefratelli, 
+Brescia, Italy.
+(15)Department of Psychiatry, University of Oxford, United Kingdom.
+(16)Institute of Psychiatry, Psychology and Neuroscience, King's College London, 
+London, United Kingdom; Psychiatric Imaging, Medical Research Council Clinical 
+Sciences Centre, Imperial College London, Hammersmith Hospital Campus, London, 
+United Kingdom.
+(17)Department of Psychiatry, Radboudumc Nijmegen the Netherlands.
+(18)Department of Computer Science and Technology, University of Cambridge, 
+Cambridge, United Kingdom.
+(19)Department of Psychiatry, University of Tartu, Tartu, Estonia; Centre for 
+Neuropsychopharmacology, Division of Brain Sciences, Imperial College London, 
+London, United Kingdom; Documental Ltd, Tallin, Estonia; West Tallinn Central 
+Hospital, Tallinn, Estonia.
+(20)Queensland University of Technology, Centre for Genomics and Personalised 
+Health, School of Biomedical Sciences, Faculty of Health, Kelvin 
+Grove, Queensland 4059, Australia.
+(21)MARGenomics, IMIM (Hospital del Mar Research Institute), Barcelona, Spain.
+(22)Department of Biomedical Sciences, Section of Neuroscience and Clinical 
+Pharmacology, University of Cagliari, Cagliari, Italy.
+(23)Paris Brain Institute ICM, Salpetriere Hospital, Paris, France.
+(24)Department of Psychiatry, Poznan University of Medical Sciences, Poznan, 
+Poland.
+(25)Department of Biomedical and NeuroMotor Sciences, University of Bologna, 
+Bologna, Italy.
+(26)British Heart Foundation Cardiovascular Epidemiology Unit, Department of 
+Public Health and Primary Care, University of Cambridge, Cambridge, United 
+Kingdom.
+(27)Parnassia Psychiatric Institute, Amsterdam, the Netherlands; Department of 
+Psychiatry and Neuropsychology, Faculty of Health and Sciences, Maastricht 
+University, Maastricht, the Netherlands; Institute of Psychiatry, Psychology & 
+Neuroscience (IoPPN) King's College London, United Kingdom.
+
+To study mental illness and health, in the past researchers have often broken 
+down their complexity into individual subsystems (e.g., genomics, 
+transcriptomics, proteomics, clinical data) and explored the components 
+independently. Technological advancements and decreasing costs of high 
+throughput sequencing has led to an unprecedented increase in data generation. 
+Furthermore, over the years it has become increasingly clear that these 
+subsystems do not act in isolation but instead interact with each other to drive 
+mental illness and health. Consequently, individual subsystems are now analysed 
+jointly to promote a holistic understanding of the underlying biological 
+complexity of health and disease. Complementing the increasing data 
+availability, current research is geared towards developing novel methods that 
+can efficiently combine the information rich multi-omics data to discover 
+biologically meaningful biomarkers for diagnosis, treatment, and prognosis. 
+However, clinical translation of the research is still challenging. In this 
+review, we summarise conventional and state-of-the-art statistical and machine 
+learning approaches for discovery of biomarker, diagnosis, as well as outcome 
+and treatment response prediction through integrating multi-omics and clinical 
+data. In addition, we describe the role of biological model systems and in 
+silico multi-omics model designs in clinical translation of psychiatric research 
+from bench to bedside. Finally, we discuss the current challenges and explore 
+the application of multi-omics integration in future psychiatric research. The 
+review provides a structured overview and latest updates in the field of 
+multi-omics in psychiatry.
+
+Copyright © 2023 Elsevier B.V. and ECNP. All rights reserved.
+
+DOI: 10.1016/j.euroneuro.2023.01.001
+PMID: 36706689 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest Bernhard T 
+Baune has consulting roles with the National Health and Medical Research 
+Council, Australia. He has received honoraria from AstraZeneca, Bristol-Myers 
+Squibb, Lundbeck, Pfizer, Servier, Wyeth, Otsuka, Biogen; Research grants from 
+private industries from AstraZeneca, Sanofi-Synthélabo; and research grants from 
+the National Health and Medical Research Council (Australia), DFG (Germany), 
+BMBF (Germany), Horizon Europe (EU); ERAPerMed (EU). He has served on advisory 
+boards for Janssen-Cilag, Lundbeck, Biogen, Otsuka and received research funds 
+from the Fay Fuller Foundation, and James & Diana Ramsay Foundation, Adelaide. 
+Alessandro Serretti is or has been a consultant to or has received honoraria or 
+grants unrelated to the present work from: Abbott, Abbvie, Angelini, Astra 
+Zeneca, Clinical Data, Boheringer, Bristol Myers Squibb, Eli Lilly, 
+GlaxoSmithKline, Innovapharma, Italfarmaco, Janssen, Lundbeck, Naurex, Pfizer, 
+Polifarma, Sanofi, Servier, Taliaz. Chiara Fabbri was a speaker for Janssen. 
+Roos van Westrhenen received research funding from the Royal Dutch medical 
+Association, the Erasmus MC (Koers 2018), the Dutch Kidney Foundation, Baxter 
+and she is the Principal Investigator of PSY-PGx funded by Horizon2020 
+(www.psy-pgx.nl). She was a consultant for Cipsoft and teaches at PsyFar and 
+Schola Medica. She has served on advisory boards of the EU (Horizon2021) and the 
+British Medical Research Council.
+
+
+7. Child Psychiatry Hum Dev. 2023 Apr;54(2):421-435. doi: 
+10.1007/s10578-021-01258-8. Epub 2021 Sep 29.
+
+Child Maltreatment and Long-Term Physical and Mental Health Outcomes: An 
+Exploration of Biopsychosocial Determinants and Implications for Prevention.
+
+Mehta D(#)(1)(2)(3), Kelly AB(#)(4)(5)(6), Laurens KR(#)(2)(7)(8), Haslam 
+D(#)(2)(9), Williams KE(#)(2)(10)(11), Walsh K(#)(2)(10)(11), Baker 
+PRA(#)(2)(12), Carter HE(#)(2)(12), Khawaja NG(#)(2)(8), Zelenko O(2), Mathews 
+B(#)(2)(13)(14).
+
+Author information:
+(1)Centre for Genomics and Personalised Health, Queensland University of 
+Technology (QUT), Brisbane, Australia.
+(2)Child Adversity, Mental Health and Resilience Theme, Centre for Child Health 
+and Well-being, Queensland University of Technology (QUT), Brisbane, Australia.
+(3)School of Biomedical Sciences, Queensland University of Technology, Brisbane, 
+Australia.
+(4)Child Adversity, Mental Health and Resilience Theme, Centre for Child Health 
+and Well-being, Queensland University of Technology (QUT), Brisbane, Australia. 
+a.kelly@qut.edu.au.
+(5)Centre for Inclusive Education, Queensland University of Technology (QUT), 
+Brisbane, Australia. a.kelly@qut.edu.au.
+(6)School of Psychology and Counselling, Queensland University of Technology 
+(QUT), Brisbane, Australia. a.kelly@qut.edu.au.
+(7)Centre for Inclusive Education, Queensland University of Technology (QUT), 
+Brisbane, Australia.
+(8)School of Psychology and Counselling, Queensland University of Technology 
+(QUT), Brisbane, Australia.
+(9)Parenting and Family Support Centre, The University of Queensland, Brisbane, 
+Australia.
+(10)School of Early Childhood and Inclusive Education, Queensland University of 
+Technology (QUT), Brisbane, Australia.
+(11)Centre for Child & Family Studies, Queensland University of Technology 
+(QUT), Brisbane, Australia.
+(12)School of Public Health and Social Work, Faculty of Health, Queensland 
+University of Technology (QUT), Brisbane, Australia.
+(13)School of Law, Queensland University of Technology (QUT), Brisbane, 
+Australia.
+(14)Bloomberg School of Public Health, Johns Hopkins University, Baltimore, USA.
+(#)Contributed equally
+
+Child maltreatment rates remain unacceptably high and rates are likely to 
+escalate as COVID-related economic problems continue. A comprehensive and 
+evidence-building approach is needed to prevent, detect and intervene where 
+child maltreatment occurs. This review identifies key challenges in definitions, 
+overviews the latest data on prevalence rates, reviews risk and protective 
+factors, and examines common long-term mental health outcomes for children who 
+experience maltreatment. The review takes a systems approach to child 
+maltreatment outcomes through its focus on the overall burden of disease, 
+gene-environment interactions, neurobiological mechanisms and social ecologies 
+linking maltreatment to mental ill-health. Five recommendations relating to the 
+accurate measurement of trends, research on brain structures and processes, 
+improving the reach and impact of teleservices for detecting, preventing and 
+treating child maladjustment, community-based approaches, and building 
+population-focused multidisciplinary alliances and think tanks are presented.
+
+© 2021. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s10578-021-01258-8
+PMCID: PMC8480117
+PMID: 34586552 [Indexed for MEDLINE]
+
+
+8. Cell Rep. 2022 Nov 22;41(8):111708. doi: 10.1016/j.celrep.2022.111708. Epub 2022 
+Nov 7.
+
+Shared genetic influences between blood analyte levels and risk of severe 
+COVID-19.
+
+Tanha HM(1), Sathyanarayanan A(2), Mehta D(2), Nyholt DR(3).
+
+Author information:
+(1)School of Biomedical Sciences, Faculty of Health, and Centre for Genomics and 
+Personalised Health, Queensland University of Technology (QUT), 60 Musk Avenue, 
+Kelvin Grove, Brisbane, QLD 4059, Australia. Electronic address: 
+hamzeh.mesriantanha@hdr.qut.edu.au.
+(2)School of Biomedical Sciences, Faculty of Health, and Centre for Genomics and 
+Personalised Health, Queensland University of Technology (QUT), 60 Musk Avenue, 
+Kelvin Grove, Brisbane, QLD 4059, Australia.
+(3)School of Biomedical Sciences, Faculty of Health, and Centre for Genomics and 
+Personalised Health, Queensland University of Technology (QUT), 60 Musk Avenue, 
+Kelvin Grove, Brisbane, QLD 4059, Australia. Electronic address: 
+d.nyholt@qut.edu.au.
+
+Genome-wide association studies (GWASs) show that genetic factors contribute to 
+the risk of severe coronavirus disease 2019 (COVID-19) and blood analyte levels. 
+Here, we utilize GWAS summary statistics to study the shared genetic influences 
+(pleiotropy) between severe COVID-19 and 344 blood analytes at the genome, gene, 
+and single-nucleotide polymorphism (SNP) levels. Our pleiotropy analyses 
+genetically link blood levels of 71 analytes to severe COVID-19 in at least one 
+of the three levels of investigation-suggesting shared biological mechanisms or 
+causal relationships. Six analytes (alanine aminotransferase, alkaline 
+phosphatase, apolipoprotein B, C-reactive protein, triglycerides, and urate) 
+display evidence of pleiotropy with severe COVID-19 at all three levels. 
+Causality analyses indicate that higher triglycerides levels causally increase 
+the risk of severe COVID-19, thereby providing important support for the use of 
+lipid-lowering drugs such as statins and fibrates to prevent severe COVID-19.
+
+Copyright © 2022 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2022.111708
+PMCID: PMC9637519
+PMID: 36400032 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no 
+competing interests.
+
+
+9. Biol Psychiatry. 2022 Aug 15;92(4):256-257. doi: 10.1016/j.biopsych.2022.06.001.
+
+Linking Infections to Mental Disorders via Genetics.
+
+Sathyanarayanan A(1), Mehta D(2).
+
+Author information:
+(1)Centre for Genomics and Personalised Health, School of Biomedical Sciences, 
+Queensland University of Technology, Kelvin Grove, Queensland, Australia.
+(2)Centre for Genomics and Personalised Health, School of Biomedical Sciences, 
+Queensland University of Technology, Kelvin Grove, Queensland, Australia. 
+Electronic address: divya.mehta@qut.edu.au.
+
+Comment on
+    Biol Psychiatry. 2022 Aug 15;92(4):283-290. doi: 
+10.1016/j.biopsych.2022.01.007.
+
+DOI: 10.1016/j.biopsych.2022.06.001
+PMCID: PMC9309425
+PMID: 35902136 [Indexed for MEDLINE]
+
+
+10. Commun Biol. 2022 Jun 16;5(1):594. doi: 10.1038/s42003-022-03540-4.
+
+Integrative multi-omic analysis identifies genetically influenced DNA 
+methylation biomarkers for breast and prostate cancers.
+
+Sathyanarayanan A(1)(2), Tanha HM(3)(4), Mehta D(3)(4), Nyholt DR(5)(6).
+
+Author information:
+(1)Queensland University of Technology, Centre for Genomics and Personalised 
+Health, Faculty of Health, Kelvin Grove, QLD, Australia. 
+a.sathyanarayanan@qut.edu.au.
+(2)Queensland University of Technology, School of Biomedical Sciences, Faculty 
+of Health, Kelvin Grove, QLD, Australia. a.sathyanarayanan@qut.edu.au.
+(3)Queensland University of Technology, Centre for Genomics and Personalised 
+Health, Faculty of Health, Kelvin Grove, QLD, Australia.
+(4)Queensland University of Technology, School of Biomedical Sciences, Faculty 
+of Health, Kelvin Grove, QLD, Australia.
+(5)Queensland University of Technology, Centre for Genomics and Personalised 
+Health, Faculty of Health, Kelvin Grove, QLD, Australia. d.nyholt@qut.edu.au.
+(6)Queensland University of Technology, School of Biomedical Sciences, Faculty 
+of Health, Kelvin Grove, QLD, Australia. d.nyholt@qut.edu.au.
+
+Aberrant DNA methylation has emerged as a hallmark in several cancers and 
+contributes to risk, oncogenesis, progression, and prognosis. In this study, we 
+performed imputation-based and conventional methylome-wide association analyses 
+for breast cancer (BrCa) and prostate cancer (PrCa). The imputation-based 
+approach identified DNA methylation at cytosine-phosphate-guanine sites (CpGs) 
+associated with BrCa and PrCa risk utilising genome-wide association summary 
+statistics (NBrCa = 228,951, NPrCa = 140,254) and prebuilt methylation 
+prediction models, while the conventional approach identified CpG associations 
+utilising TCGA and GEO experimental methylation data (NBrCa = 621, NPrCa = 241). 
+Enrichment analysis of the association results implicated 77 and 81 genetically 
+influenced CpGs for BrCa and PrCa, respectively. Furthermore, analysis of 
+differential gene expression around these CpGs suggests a 
+genome-epigenome-transcriptome mechanistic relationship. Conditional analyses 
+identified multiple independent secondary SNP associations (Pcond < 0.05) around 
+28 BrCa and 22 PrCa CpGs. Cross-cancer analysis identified eight common CpGs, 
+including a strong therapeutic target in SREBF1 (17p11.2)-a key player in lipid 
+metabolism. These findings highlight the utility of integrative analysis of 
+multi-omic cancer data to identify robust biomarkers and understand their 
+regulatory effects on cancer risk.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s42003-022-03540-4
+PMCID: PMC9203749
+PMID: 35710732 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+11. J Psychiatr Res. 2022 May;149:374-381. doi: 10.1016/j.jpsychires.2021.11.026. 
+Epub 2021 Nov 19.
+
+Recalibrating the epigenetic clock after exposure to trauma: The role of risk 
+and protective psychosocial factors.
+
+Mehta D(1), Bruenig D(2), Pierce J(3), Sathyanarayanan A(4), Stringfellow R(3), 
+Miller O(3), Mullens AB(5), Shakespeare-Finch J(3).
+
+Author information:
+(1)Queensland University of Technology (QUT), Centre for Genomics and 
+Personalised Health, Faculty of Health, Kelvin Grove, Queensland, 4059, 
+Australia; Queensland University of Technology (QUT), School of Biomedical 
+Sciences, Faculty of Health, Kelvin Grove, Queensland, 4059, Australia. 
+Electronic address: divya.mehta@qut.edu.au.
+(2)Queensland University of Technology (QUT), Centre for Genomics and 
+Personalised Health, Faculty of Health, Kelvin Grove, Queensland, 4059, 
+Australia; Queensland University of Technology (QUT), School of Psychology and 
+Counselling, Faculty of Health, Kelvin Grove, Queensland, 4059, Australia.
+(3)Queensland University of Technology (QUT), School of Psychology and 
+Counselling, Faculty of Health, Kelvin Grove, Queensland, 4059, Australia.
+(4)Queensland University of Technology (QUT), Centre for Genomics and 
+Personalised Health, Faculty of Health, Kelvin Grove, Queensland, 4059, 
+Australia; Queensland University of Technology (QUT), School of Biomedical 
+Sciences, Faculty of Health, Kelvin Grove, Queensland, 4059, Australia.
+(5)School of Psychology and Counselling, Centre for Health Research, Institute 
+for Resilient Regions, University of Southern Queensland (USQ), 11 Salisbury Rd, 
+Ipswich, QLD, 4305, Australia.
+
+BACKGROUND: Epigenetic aging is associated with a plethora of negative health 
+outcomes and increased mortality. Yet, the dynamicity of epigenetic age after 
+exposure to trauma and the factors that influence epigenetic age are not fully 
+understood. This research evaluated longitudinal changes in epigenetic age 
+before and after exposure to work-related trauma among paramedicine students. We 
+further investigated psychological and social risk (psychological distress, 
+posttraumatic stress disorder/PTSD symptom severity, professional quality of 
+life) and protective factors (social support and organisational membership) that 
+drive epigenetic aging at both time points.
+METHODS: The study comprised of 80 samples of University paramedicine students 
+including 40 individuals at two time points - t0 (baseline) and t1 (post-trauma 
+exposure). Epigenome-wide analysis was performed from t0 and t1 saliva using the 
+Illumina EPIC arrays that cover >860k probes. Data analysis was performed using 
+R via generalized regression models. The epigenetic age was calculated based on 
+the Horvath algorithm, GrimAge and SkinBloodAge were calculated using the 
+Horvath online calculator, and p-value for significance was corrected using the 
+FDR method for multiple testing corrections.
+RESULTS: The epigenetic age at t0 and t1 were highly correlated with 
+chronological age and with each other (r = 0.84-0.94). Baseline epigenetic age 
+and follow-up epigenetic age were significantly associated with risk factors of 
+psychological distress and PTSD symptom severity. Among the protective factors, 
+a sense of psychological organisational membership at the start of the 
+paramedicine course as measured at baseline significantly reduced epigenetic age 
+at baseline and post-trauma exposure. On the other hand, receiving social 
+support acted as a protective factor only after exposure to trauma (follow-up), 
+decreasing epigenetic aging at follow-up. GrimAge acceleration at follow-up was 
+significantly associated with increased PTSD symptom severity at baseline and 
+follow-up. Moreover, increased social support at baseline and follow-up was 
+associated with reduced follow-up GrimAge acceleration.
+CONCLUSION: These results demonstrate that epigenetic aging is dynamic and 
+changes after exposure to trauma. Additionally, results demonstrate that 
+different risk and protective factors influence epigenetic aging at different 
+times. In conclusion, the research identified risk and protective factors 
+associated with epigenetic aging pre- and post-trauma exposure, with 
+implications for health and well-being among individuals exposed to trauma.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jpsychires.2021.11.026
+PMID: 34823878 [Indexed for MEDLINE]
+
+
+12. Infancy. 2022 Jan;27(1):46-66. doi: 10.1111/infa.12444. Epub 2021 Nov 30.
+
+Still connecting the dots: An investigation into infants' attentional bias to 
+threat using an eye-tracking task.
+
+Sareen S(1), Doyle FL(1)(2), Kemp LJ(1), Northam JC(1), Morgan BG(1), Kimonis 
+ER(3), Richmond JL(3), Le Pelley ME(3), Eapen V(4), Frick PJ(5), Hawes DJ(1), 
+Moul C(1), Mehta D(6), Dadds MR(1).
+
+Author information:
+(1)School of Psychology, Faculty of Science, University of Sydney, Sydney, NSW, 
+Australia.
+(2)The MARCS Institute for Brain, Behaviour and Development, School of 
+Psychology, Western Sydney University, Penrith, NSW, Australia.
+(3)School of Psychology, University of New South Wales, Sydney, NSW, Australia.
+(4)School of Psychiatry, Faculty of Medicine, University of New South Wales, 
+Sydney, NSW, Australia.
+(5)Department of Psychology, Louisiana State University, Baton Rouge, Louisiana, 
+USA.
+(6)Centre for Genomics and Personalised Health, Faculty of Health, Queensland 
+University of Technology (QUT), Kelvin Grove, Qld, Australia.
+
+An attentional bias toward threat has been theorized to be a normative aspect of 
+infants' threat and safety learning, and an indicator of risk for internalizing 
+psychopathology in older populations. To date, only four studies have examined 
+this bias using the dot-probe task in infancy and the findings are mixed. We 
+extended the literature by examining patterns of attention to threat in a 
+culturally and linguistically diverse sample of infants aged 5-11 months old 
+(N = 151) using all measures previously employed in the infant dot-probe 
+literature. Given that an attentional bias toward threat is associated with 
+higher risk of developing anxiety disorders later in life, we also examined how 
+negative affect-an early correlate of later anxiety disorders-is related to 
+attentional bias toward threat in infancy. This study was the first to use a 
+consistent measure of negative affect across the whole sample. An eye-tracking 
+dot-probe task was used to examine attentional bias toward threat (i.e., angry 
+faces) relative to positive (i.e., happy faces) stimuli. Results showed that an 
+attention bias to threat was not characteristic of infants at this age, and 
+negative affect did not moderate the putative relationship between attention and 
+emotional faces (angry, happy). These findings therefore suggest that attention 
+biases to socio-emotional threat may not have emerged by 11 months old.
+
+© 2021 International Congress of Infant Studies.
+
+DOI: 10.1111/infa.12444
+PMID: 34846094 [Indexed for MEDLINE]
+
+
+13. PLoS One. 2021 Sep 2;16(9):e0248254. doi: 10.1371/journal.pone.0248254. 
+eCollection 2021.
+
+Examining sex differences in neurodevelopmental and psychiatric genetic risk in 
+anxiety and depression.
+
+Martin J(1), Asjadi K(1), Hubbard L(1), Kendall K(1), Pardiñas AF(1), Jermy 
+B(2), Lewis CM(2), Baune BT(3)(4)(5), Boomsma DI(6), Hamilton SP(7), Lucae S(8), 
+Magnusson PK(9), Martin NG(10), McIntosh AM(11)(12), Mehta D(13), Mors 
+O(14)(15), Mullins N(16)(17)(18), Penninx BWJH(19), Preisig M(20), Rietschel 
+M(21), Jones I(1)(22), Walters JTR(1)(22), Rice F(1), Thapar A(1)(22), O'Donovan 
+M(1)(22); Major Depressive Disorder Working Group of the Psychiatric Genomics 
+Consortium.
+
+Author information:
+(1)MRC Centre for Neuropsychiatric Genetics and Genomics, Division of 
+Psychological Medicine and Clinical Neurosciences, Cardiff University, Cardiff, 
+United Kingdom.
+(2)Social, Genetic and Developmental Psychiatry Centre, Institute of Psychiatry, 
+Psychology & Neuroscience, King's College London, London, United Kingdom.
+(3)Department of Psychiatry, University of Münster, Münster, 
+Nordrhein-Westfalen, Germany.
+(4)Department of Psychiatry, Melbourne Medical School, University of Melbourne, 
+Melbourne, Australia.
+(5)Florey Institute for Neuroscience and Mental Health, University of Melbourne, 
+Melbourne, Australia.
+(6)Dept. of Biological Psychology & EMGO+ Institute for Health and Care 
+Research, Vrije Universiteit Amsterdam, Amsterdam, Netherland.
+(7)Psychiatry, Kaiser Permanente Northern California, San Francisco, California, 
+United States of America.
+(8)Max Planck Institute of Psychiatry, Munich, Germany.
+(9)Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+Stockholm, Sweden.
+(10)Genetics and Computational Biology, QIMR Berghofer Medical Research 
+Institute, Brisbane, Queensland, Australia.
+(11)Division of Psychiatry, University of Edinburgh, Edinburgh, United Kingdom.
+(12)Centre for Cognitive Ageing and Cognitive Epidemiology, University of 
+Edinburgh, Edinburgh, United Kingdom.
+(13)Centre for Genomics and Personalised Health, Faculty of Health, Queensland 
+University of Technology (QUT), Kelvin Grove, Queensland, Australia.
+(14)iPSYCH, The Lundbeck Foundation Initiative for Integrative Psychiatric 
+Research, Aarhus, Denmark.
+(15)Psychosis Research Unit, Aarhus University Hospital, Risskov, Aarhus, 
+Denmark.
+(16)Social, Genetic and Developmental Psychiatry Centre, King's College London, 
+London, United Kingdom.
+(17)Department of Genetics and Genomic Sciences, Icahn School of Medicine at 
+Mount Sinai, New York, New York, United States of America.
+(18)Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, 
+New York, United States of America.
+(19)Department of Psychiatry, Vrije Universiteit Medical Center and GGZ inGeest, 
+Amsterdam, Netherland.
+(20)Department of Psychiatry, Lausanne University Hospital and University of 
+Lausanne, Lausanne, Switzerland.
+(21)Department of Genetic Epidemiology in Psychiatry, Central Institute of 
+Mental Health, Medical Faculty Mannheim, Heidelberg University, Mannheim, 
+Baden-Württemberg, Germany.
+(22)National Centre for Mental Health, Division of Psychological Medicine and 
+Clinical Neurosciences, Cardiff University, Cardiff, United Kingdom.
+
+Anxiety and depression are common mental health disorders and have a higher 
+prevalence in females. They are modestly heritable, share genetic liability with 
+other psychiatric disorders, and are highly heterogeneous. There is evidence 
+that genetic liability to neurodevelopmental disorders, such as attention 
+deficit hyperactivity disorder (ADHD) is associated with anxiety and depression, 
+particularly in females. We investigated sex differences in family history for 
+neurodevelopmental and psychiatric disorders and neurodevelopmental genetic risk 
+burden (indexed by ADHD polygenic risk scores (PRS) and rare copy number 
+variants; CNVs) in individuals with anxiety and depression, also taking into 
+account age at onset. We used two complementary datasets: 1) participants with a 
+self-reported diagnosis of anxiety or depression (N = 4,178, 65.5% female; mean 
+age = 41.5 years; N = 1,315 with genetic data) from the National Centre for 
+Mental Health (NCMH) cohort and 2) a clinical sample of 13,273 (67.6% female; 
+mean age = 45.2 years) patients with major depressive disorder (MDD) from the 
+Psychiatric Genomics Consortium (PGC). We tested for sex differences in family 
+history of psychiatric problems and presence of rare CNVs (neurodevelopmental 
+and >500kb loci) in NCMH only and for sex differences in ADHD PRS in both 
+datasets. In the NCMH cohort, females were more likely to report family history 
+of neurodevelopmental and psychiatric disorders, but there were no robust sex 
+differences in ADHD PRS or presence of rare CNVs. There was weak evidence of 
+higher ADHD PRS in females compared to males in the PGC MDD sample, particularly 
+in those with an early onset of MDD. These results do not provide strong 
+evidence of sex differences in neurodevelopmental genetic risk burden in adults 
+with anxiety and depression. This indicates that sex may not be a major index of 
+neurodevelopmental genetic heterogeneity, that is captured by ADHD PRS and rare 
+CNV burden, in adults with anxiety and depression.
+
+DOI: 10.1371/journal.pone.0248254
+PMCID: PMC8412369
+PMID: 34473692 [Indexed for MEDLINE]
+
+Conflict of interest statement: MOD, JTRW and IJ have received a collaborative 
+research grant from Takeda Pharmaceuticals. Takeda played no part in the 
+conception, design, implementation, or interpretation of this study. CML is on 
+the Scientific Advisory Board of Myriad Neuroscience. All other authors report 
+no conflicts of interest. This does not alter our adherence to PLOS ONE policies 
+on sharing data and materials.
+
+
+14. Transl Psychiatry. 2021 Mar 4;11(1):155. doi: 10.1038/s41398-021-01270-5.
+
+Genome-wide gene expression changes in postpartum depression point towards an 
+altered immune landscape.
+
+Mehta D(1), Grewen K(2), Pearson B(2), Wani S(3), Wallace L(3), Henders AK(3), 
+Binder EB(4)(5), Frokjaer VG(6)(7)(8), Meltzer-Brody S(2), Wray NR(3), Stuebe 
+AM(9)(10)(11).
+
+Author information:
+(1)Queensland University of Technology (QUT), Centre for Genomics and 
+Personalised Health, Faculty of Health, Institute of Health and Biomedical 
+Innovation, Kelvin Grove, QLD, 4059, Australia. divya.mehta@qut.edu.au.
+(2)Department of Psychiatry, University of North Carolina School of Medicine, 
+Chapel Hill, NC, 27514, USA.
+(3)Center for Neurostatistics and Statistical Genomics, Institute for Molecular 
+Bioscience, The University of Queensland, St Lucia, QLD, 4072, Australia.
+(4)Max Planck Institute of Psychiatry, Munich, 80804, Germany.
+(5)Emory University, Atlanta, GA, 30322, USA.
+(6)Neurobiology Research Unit, Copenhagen University Hospital Rigshospitalet, 
+Copenhagen, 2100, Denmark.
+(7)Center for Integrated Molecular Brain Imaging, Copenhagen University Hospital 
+Rigshospitalet, Copenhagen, 2100, Denmark.
+(8)Mental Health Services Copenhagen, Copenhagen University Hospital 
+Rigshospitalet, Copenhagen, 2100, Denmark.
+(9)Division of Maternal-Fetal Medicine, University of North Carolina School of 
+Medicine, Chapel Hill, NC, 27514, USA.
+(10)Department of Obstetrics and Gynecology, School of Medicine, University of 
+North Carolina at Chapel Hill, Chapel Hill, NC, 27514, USA.
+(11)Department of Maternal and Child Health, Carolina Global Breastfeeding 
+Institute, Gillings School of Global Public Health, University of North Carolina 
+at Chapel Hill, Chapel Hill, NC, 27514, USA.
+
+Maternal postpartum depression (PPD) is a significant public health concern due 
+to the severe negative impact on maternal and child health and well-being. In 
+this study, we aimed to identify genes associated with PPD. To do this, we 
+investigated genome-wide gene expression profiles of pregnant women during their 
+third trimester of pregnancy and tested the association of gene expression with 
+perinatal depressive symptoms. A total of 137 women from a cohort from the 
+University of North Carolina, USA were assessed. The main phenotypes analysed 
+were Edinburgh Postnatal Depression Scale (EPDS) scores at 2 months postpartum 
+and PPD (binary yes/no) based on an EPDS cutoff of 10. Illumina NextSeq500/550 
+transcriptomic sequencing from whole blood was analysed using the edgeR package. 
+We identified 71 genes significantly associated with postpartum depression 
+scores at 2 months, after correction for multiple testing at 5% FDR. These 
+included several interesting candidates including TNFRSF17, previously reported 
+to be significantly upregulated in women with PPD and MMP8, a matrix 
+metalloproteinase gene, associated with depression in a genome-wide association 
+study. Functional annotation of differentially expressed genes revealed an 
+enrichment of immune response-related biological processes. Additional analysis 
+of genes associated with changes in depressive symptoms from recruitment to 2 
+months postpartum identified 66 genes significant at an FDR of 5%. Of these 
+genes, 33 genes were also associated with depressive symptoms at 2 months 
+postpartum. Comparing the results with previous studies, we observed that 15.4% 
+of genes associated with PPD in this study overlapped with 700 core maternal 
+genes that showed significant gene expression changes across multiple brain 
+regions (P = 7.9e-05) and 29-53% of the genes were also associated with 
+estradiol changes in a pharmacological model of depression (P values 
+range = 1.2e-4-2.1e-14). In conclusion, we identified novel genes and validated 
+genes previously associated with oestrogen sensitivity in PPD. These results 
+point towards the role of an altered immune transcriptomic landscape as a 
+vulnerability factor for PPD.
+
+DOI: 10.1038/s41398-021-01270-5
+PMCID: PMC7933180
+PMID: 33664235 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+15. Hum Genet. 2021 Mar;140(3):529-552. doi: 10.1007/s00439-020-02223-6. Epub 2020 
+Sep 21.
+
+Genetic analysis of endometriosis and depression identifies shared loci and 
+implicates causal links with gastric mucosa abnormality.
+
+Adewuyi EO(1), Mehta D(2), Sapkota Y(3); International Endogene Consortium; 
+23andMe Research Team; Auta A(4), Yoshihara K(5), Nyegaard M(6)(7), Griffiths 
+LR(2), Montgomery GW(8), Chasman DI(9), Nyholt DR(10).
+
+Collaborators: Sapkota Y, Yoshihara K, Nyegaard M, Steinthorsdottir V, Morris 
+AP, Fassbender A, Rahmioglu N, De Vivo I, Buring JE, Zhang F, Edwards TL, Jones 
+S, Dorien, Peterse D, Rexrode KM, Ridker PM, Schork AJ, MacGregor S, Martin NG, 
+Becker CM, Adachi S, Enomoto T, Takahashi A, Kamatani Y, Matsuda K, Kubo M, 
+Thorleifsson G, Geirsson RT, Thorsteinsdottir U, Wallace LM, Yang J, Velez 
+Edwards DR, Nyegaard M, Low SK, Zondervan KT, Missmer SA, D'Hooghe T, Stefansson 
+K, Tung JY, Montgomery GW, Chasman DI, Nyholt DR, Agee M, Alipanahi B, Auton A, 
+Bell RK, Bryc K, Elson SL, Fontanillas P, Furlotte NA, Huber KE, Kleinman A, 
+Litterman NK, McIntyre MH, Mountain JL, Noblin ES, Northover CAM, Pitts SJ, Fah 
+Sathirapongsasuti J, Sazonova OV, Shelton JF, Shringarpure S, Tian C, Vacic V, 
+Wilson CH.
+
+Author information:
+(1)School of Biomedical Sciences, Faculty of Health, and Institute of Health and 
+Biomedical Innovation, Queensland University of Technology (QUT), Brisbane, QLD, 
+Australia. emmanuel.adewuyi@qut.edu.au.
+(2)School of Biomedical Sciences, Faculty of Health, and Institute of Health and 
+Biomedical Innovation, Queensland University of Technology (QUT), Brisbane, QLD, 
+Australia.
+(3)Department of Epidemiology And Cancer Control, St. Jude Children's Research 
+Hospital, Memphis, TN, 38105, USA.
+(4)School of Pharmacy and Biomedical Sciences, University of Central Lancashire, 
+Preston, PR1 2HE, UK.
+(5)Department of Obstetrics And Gynecology, Niigata University Graduate School 
+of Medical and Dental Sciences, Niigata, 950-2181, Japan.
+(6)Department of Biomedicine - Human Genetics, Aarhus University, 8000, Aarhus,, 
+Denmark.
+(7)iPSYCH, The Lundbeck Foundation Initiative for Integrative Psychiatric 
+Research, 2100, Copenhagen, Denmark.
+(8)Institute for Molecular Bioscience, The University of Queensland, Brisbane, 
+QLD, 4072, Australia.
+(9)Divisions of Preventive Medicine, Department of Medicine, Harvard Medical 
+School, Brigham and Women's Hospital, Boston, MA, USA.
+(10)School of Biomedical Sciences, Faculty of Health, and Institute of Health 
+and Biomedical Innovation, Queensland University of Technology (QUT), Brisbane, 
+QLD, Australia. d.nyholt@qut.edu.au.
+
+Evidence from observational studies indicates that endometriosis and depression 
+often co-occur. However, conflicting evidence exists, and the etiology as well 
+as biological mechanisms underlying their comorbidity remain unknown. Utilizing 
+genome-wide association study (GWAS) data, we comprehensively assessed the 
+relationship between endometriosis and depression. Single nucleotide 
+polymorphism effect concordance analysis (SECA) found a significant genetic 
+overlap between endometriosis and depression (PFsig-permuted = 9.99 × 10-4). 
+Linkage disequilibrium score regression (LDSC) analysis estimated a positive and 
+highly significant genetic correlation between the two traits (rG = 0.27, 
+P = 8.85 × 10-27). A meta-analysis of endometriosis and depression GWAS (sample 
+size = 709,111), identified 20 independent genome-wide significant loci 
+(P < 5 × 10-8), of which eight are novel. Mendelian randomization analysis (MR) 
+suggests a causal effect of depression on endometriosis. Combining gene-based 
+association results across endometriosis and depression GWAS, we identified 22 
+genes with a genome-wide significant Fisher's combined P value 
+(FCPgene < 2.75 × 10-6). Genes with a nominal gene-based association 
+(Pgene < 0.05) were significantly enriched across endometriosis and depression 
+(Pbinomial-test = 2.90 × 10-4). Also, genes overlapping the two traits at 
+Pgene < 0.1 (Pbinomial-test = 1.31 × 10-5) were significantly enriched for the 
+biological pathways 'cell-cell adhesion', 'inositol phosphate metabolism', 
+'Hippo-Merlin signaling dysregulation' and 'gastric mucosa abnormality'. These 
+results reveal a shared genetic etiology for endometriosis and depression. 
+Indeed, additional analyses found evidence of a causal association between each 
+of endometriosis and depression and at least one abnormal condition of gastric 
+mucosa. Our study confirms the comorbidity of endometriosis and depression, 
+implicates links with gastric mucosa abnormalities in their causal pathways and 
+reveals potential therapeutic targets for further investigation.
+
+DOI: 10.1007/s00439-020-02223-6
+PMID: 32959083 [Indexed for MEDLINE]
+
+
+16. Brain Behav Immun. 2020 Oct;89:7-8. doi: 10.1016/j.bbi.2020.08.014. Epub 2020 
+Aug 14.
+
+The genetic double whammy - Autoimmune and mental health disorders.
+
+Mehta D(1).
+
+Author information:
+(1)School of Psychology and Counselling, Queensland University of Technology, 
+149 Victoria Park Road, Kelvin Grove, Queensland 4059, Australia; Institute of 
+Health and Biomedical Innovation, 60 Musk Avenue, Queensland University of 
+Technology, Kelvin Grove, Queensland 4059, Australia. Electronic address: 
+divya.mehta@qut.edu.au.
+
+Comment on
+    Brain Behav Immun. 2021 Jan;91:10-23. doi: 10.1016/j.bbi.2020.06.014.
+
+DOI: 10.1016/j.bbi.2020.08.014
+PMID: 32805391 [Indexed for MEDLINE]
+
+
+17. Gene. 2020 Jan 30;725:144163. doi: 10.1016/j.gene.2019.144163. Epub 2019 Oct 19.
+
+NLRP3 is associated with coronary artery disease in Vietnam veterans.
+
+Akosile W(1), Voisey J(2), Lawford B(2), Colquhoun D(3), McD Young R(4), Mehta 
+D(5); PTSD Initiative.
+
+Author information:
+(1)School of Psychology and Counselling, Faculty of Health, Institute of Health 
+and Biomedical Innovation, Queensland University of Technology, Kelvin Grove, 
+Queensland, Australia; Gallipoli Medical Research Institute, Greenslopes Private 
+Hospital, Newdegate Street, Greenslopes, Queensland 4120, Australia. Electronic 
+address: wole.akosile@hdr.qut.edu.au.
+(2)School of Biomedical Sciences, Faculty of Health, Institute of Health and 
+Biomedical Innovation, Queensland University of Technology, Kelvin Grove, 
+Queensland, Australia.
+(3)Gallipoli Medical Research Institute, Greenslopes Private Hospital, Newdegate 
+Street, Greenslopes, Queensland 4120, Australia.
+(4)School of Psychology and Counselling, Faculty of Health, Institute of Health 
+and Biomedical Innovation, Queensland University of Technology, Kelvin Grove, 
+Queensland, Australia; Gallipoli Medical Research Institute, Greenslopes Private 
+Hospital, Newdegate Street, Greenslopes, Queensland 4120, Australia.
+(5)School of Psychology and Counselling, Faculty of Health, Institute of Health 
+and Biomedical Innovation, Queensland University of Technology, Kelvin Grove, 
+Queensland, Australia.
+
+BACKGROUND: Previous studies have established that coronary artery disease is 
+associated with excess inflammation. These studies have shown an elevation of 
+both pro and anti-inflammatory cytokines in sufferers of coronary artery 
+disease. There is increasing interest in the role played by the inflammasome Nod 
+Like Receptor family pyrin domain containing 3 (NLRP3) in the aetiology of 
+coronary artery disease. Increased severity of coronary artery disease 
+correlates with higher levels of expression of NLRP3. Does NLRP3 polymorphisms 
+play a role in the aetiology of coronary artery disease?
+METHOD: In a cohort of Vietnam War (n-299) veterans who have been previously 
+exposed to trauma, NLRP3 polymorphisms were analysed for association with 
+coronary calcium scores using analyses of variance. Independent t-test was used 
+to analyse genotypes. In samples with a small representation of minor 
+homozygotes, genotypes were combined and analysed using independent t-test. If 
+any of the genotype analysis suggested the potential for a dominant or a 
+recessive model the model was further explored. Hardy-Weinberg Equilibrium was 
+calculated using Hardy-Weinberg equilibrium calculator including analysis for 
+ascertainment bias.
+RESULTS: The NLRP3 polymorphism, rs10159239 was significantly associated 
+(p = 0.001) with a higher raised coronary calcium score. The Single Nucleotide 
+Polymorphism rs10159239 was examined by logistic regression with known risk 
+factors for Coronary artery disease and remained significant (0.035). This is 
+the first time rs10159239 A-allele has been associated with raised coronary 
+calcium score.
+CONCLUSIONS: This is the first time rs10159239 A-allele has been associated with 
+raised coronary calcium score. Further research is needed to replicate our 
+results in larger well-characterised cohorts.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.gene.2019.144163
+PMID: 31639433 [Indexed for MEDLINE]
+
+
+18. J Psychiatr Res. 2019 Sep;116:42-50. doi: 10.1016/j.jpsychires.2019.06.001. Epub 
+2019 Jun 6.
+
+DNA methylation from germline cells in veterans with PTSD.
+
+Mehta D(1), Pelzer ES(2), Bruenig D(3), Lawford B(2), McLeay S(4), Morris CP(2), 
+Gibson JN(4), Young RM(5), Voisey J(2); PTSD Initiative.
+
+Collaborators: McLeay S(6), Harvey W(6), Romaniuk M(7), Crawford D(8), Colquhoun 
+D(8), Young RM(7), Dwyer M(6), Gibson J(9), O'Sullivan R(8), Cooksley G(10), 
+Strakosch C(8), Thomson R(8), Voisey J(7), Lawford B(11).
+
+Author information:
+(1)School of Psychology and Counselling, Faculty of Health, Institute of Health 
+and Biomedical Innovation, Queensland University of Technology, Kelvin Grove, 
+Queensland, 4059, Australia. Electronic address: divya.mehta@qut.edu.au.
+(2)School of Biomedical Sciences, Faculty of Health, Institute of Health and 
+Biomedical Innovation, Queensland University of Technology, Kelvin Grove, 
+Queensland, 4059, Australia.
+(3)School of Biomedical Sciences, Faculty of Health, Institute of Health and 
+Biomedical Innovation, Queensland University of Technology, Kelvin Grove, 
+Queensland, 4059, Australia; Gallipoli Medical Research Institute, Greenslopes 
+Private Hospital, Newdegate Street, Greenslopes, QLD, 4120, Australia.
+(4)Gallipoli Medical Research Institute, Greenslopes Private Hospital, Newdegate 
+Street, Greenslopes, QLD, 4120, Australia.
+(5)School of Psychology and Counselling, Faculty of Health, Institute of Health 
+and Biomedical Innovation, Queensland University of Technology, Kelvin Grove, 
+Queensland, 4059, Australia; Gallipoli Medical Research Institute, Greenslopes 
+Private Hospital, Newdegate Street, Greenslopes, QLD, 4120, Australia.
+(6)Gallipoli Medical Research Foundation, Greenslopes Private Hospital, 
+Newdegate St, Greenslopes, Australia.
+(7)Gallipoli Medical Research Foundation, Greenslopes Private Hospital, 
+Newdegate St, Greenslopes, Australia; School of Biomedical Sciences, Faculty of 
+Health and Institute of Health and Biomedical Innovation, Queensland University 
+of Technology, Kelvin Grove, QLD, Australia.
+(8)Gallipoli Medical Research Foundation, Greenslopes Private Hospital, 
+Newdegate St, Greenslopes, Australia; School of Medicine, The University of 
+Queensland, Herston, Queensland, Australia; Greenslopes Private Hospital, 
+Newdegate St, Greenslopes, Queensland Faculty of Health, Queensland University 
+of Technology, Kelvin Grove, QLD, Australia.
+(9)Gallipoli Medical Research Foundation, Greenslopes Private Hospital, 
+Newdegate St, Greenslopes, Australia; Greenslopes Private Hospital, Newdegate 
+St, Greenslopes, Queensland Faculty of Health, Queensland University of 
+Technology, Kelvin Grove, QLD, Australia.
+(10)Gallipoli Medical Research Foundation, Greenslopes Private Hospital, 
+Newdegate St, Greenslopes, Australia; School of Medicine, The University of 
+Queensland, Herston, Queensland, Australia.
+(11)Gallipoli Medical Research Foundation, Greenslopes Private Hospital, 
+Newdegate St, Greenslopes, Australia; School of Biomedical Sciences, Faculty of 
+Health and Institute of Health and Biomedical Innovation, Queensland University 
+of Technology, Kelvin Grove, QLD, Australia; School of Medicine, The University 
+of Queensland, Herston, Queensland, Australia; Greenslopes Private Hospital, 
+Newdegate St, Greenslopes, Queensland Faculty of Health, Queensland University 
+of Technology, Kelvin Grove, QLD, Australia.
+
+In this study we investigated genome-wide sperm DNA methylation patterns in 
+trauma-exposed Vietnam veterans. At the genome-wide level, we identified 3 CpG 
+sites associated with PTSD in sperm including two intergenic and one CpG within 
+the CCDC88C gene. Of those associated with PTSD in sperm at a nominal level, 
+1868 CpGs were also associated with PTSD in peripheral blood (5.6% overlap) 
+including the RORA, CRHR1 and DOCK2 genes that have been previously implicated 
+in PTSD. A total of 10 CpG sites were significantly associated with a reported 
+history of a diagnosed mental health condition in children and reached 
+genome-wide significance. CpGs associated with a history of a reported mental 
+health condition in children were also enriched (90% of tested genes) for genes 
+previously reported to be resistant to demethylation, making them strong 
+candidates for transgenerational inheritance. In conclusion, our findings 
+identify a unique sperm-specific DNA methylation pattern that is associated with 
+PTSD.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jpsychires.2019.06.001
+PMID: 31195163 [Indexed for MEDLINE]
+
+
+19. Gene. 2019 May 25;698:107-112. doi: 10.1016/j.gene.2019.02.067. Epub 2019 Mar 1.
+
+Differential BDNF methylation in combat exposed veterans and the association 
+with exercise.
+
+Voisey J(1), Lawford B(2), Bruenig D(3), Harvey W(4), Morris CP(2), Young RM(5), 
+Mehta D(5); PTSD Initiative.
+
+Author information:
+(1)Institute of Health and Biomedical Innovation (IHBI), School of Biomedical 
+Sciences, 60 Musk Avenue, Queensland University of Technology Kelvin Grove, 
+Queensland 4059, Australia. Electronic address: j.voisey@qut.edu.au.
+(2)Institute of Health and Biomedical Innovation (IHBI), School of Biomedical 
+Sciences, 60 Musk Avenue, Queensland University of Technology Kelvin Grove, 
+Queensland 4059, Australia.
+(3)Institute of Health and Biomedical Innovation (IHBI), School of Psychological 
+and Counselling, 60 Musk Avenue, Queensland University of Technology Kelvin 
+Grove, Queensland 4059, Australia; Gallipoli Medical Research Institute, 
+Greenslopes Private Hospital, Newdegate Street Greenslopes, Queensland 4120, 
+Australia.
+(4)Gallipoli Medical Research Institute, Greenslopes Private Hospital, Newdegate 
+Street Greenslopes, Queensland 4120, Australia.
+(5)Institute of Health and Biomedical Innovation (IHBI), School of Psychological 
+and Counselling, 60 Musk Avenue, Queensland University of Technology Kelvin 
+Grove, Queensland 4059, Australia.
+
+Brain-derived neurotrophic factor (BDNF) gene is associated with increased risk 
+of posttraumatic stress disorder (PTSD) and plays a role in neuroplasticity, 
+cognition and memory. BDNF has strong potential as a therapeutic target as 
+studies have shown that antidepressants, electroconvulsive treatment and 
+exercise modulate BDNF expression and methylation. In this study we examined the 
+role of BDNF methylation and expression in PTSD and the implications of exercise 
+in mediating these effects. BDNF DNA methylation and gene expression analysis 
+was performed in a sample of 96 male Vietnam veterans. Cases were combat-exposed 
+veterans with current PTSD (n = 48) and controls were combat exposed veterans 
+with no past or current PTSD diagnosis (n = 48). No association between BDNF 
+mRNA and PTSD was identified. PTSD was associated with decreased methylation at 
+three BDNF CpG sites (cg01546433 P = 0.004835; cg24650785 P = 0.000259 and 
+cg002298481 P = 0.000672). Differential BDNF methylation was associated with 
+exercise, with active exercise associated with lower methylation levels at three 
+CpG sites (cg04481212 P = 0.005; cg01546433 P = 0.025 and cg00298481 P = 0.035). 
+Given that exercise mediates BDNF action on cognitive plasticity, exercise may 
+be a non-invasive, drug free option in the treatment of PTSD.
+
+Crown Copyright © 2019. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.gene.2019.02.067
+PMID: 30831210 [Indexed for MEDLINE]
+
+
+20. J Neuroimmunol. 2019 Mar 15;328:38-49. doi: 10.1016/j.jneuroim.2018.12.004. Epub 
+2018 Dec 17.
+
+Cumulative influence of parity-related genomic changes in multiple sclerosis.
+
+Mehta D(1), Wani S(2), Wallace L(2), Henders AK(2), Wray NR(2), McCombe PA(3).
+
+Author information:
+(1)School of Psychology and Counselling, Faculty of Health, Institute of Health 
+and Biomedical Innovation, Queensland University of Technology, Kelvin Grove, 
+Queensland, Australia; Center for Neurostatistics and Statistical Genomics, 
+Institute for Molecular Bioscience, The University of Queensland, St Lucia, 
+Queensland 4072, Australia.
+(2)Center for Neurostatistics and Statistical Genomics, Institute for Molecular 
+Bioscience, The University of Queensland, St Lucia, Queensland 4072, Australia.
+(3)Centre for Clinical Research, UQ CCR, The University of Queensland, 
+Queensland, Australia. Electronic address: pamela.mccombe@uq.edu.au.
+
+Pregnancy reduces the frequency of relapses in Multiple Sclerosis (MS) and 
+parity also has a beneficial long term effect on disease outcome. We aimed to 
+uncover the biological mechanisms underlying the beneficial long-term effects of 
+parity in MS. Genome-wide gene expression revealed 574 genes associated with 
+parity; 38.3% showed significant DNA methylation changes (enrichment p = 0.029). 
+These genes overlapped with previous MS genes in humans and a rat MS model and 
+were overrepresented within axon guidance (P = 1.6e-05), developmental biology 
+(P = 0.0094) and cell-cell communication (P = 0.019) pathways. This gene 
+regulation could provide a basis for a protective effect of parity on the 
+long-term outcome of MS.
+
+Copyright © 2018. Published by Elsevier B.V.
+
+DOI: 10.1016/j.jneuroim.2018.12.004
+PMID: 30579155 [Indexed for MEDLINE]
+
+
+21. Curr Top Behav Neurosci. 2019;42:1-34. doi: 10.1007/7854_2019_105.
+
+GWAS of Behavioral Traits.
+
+Mehta D(1), Czamara D(2).
+
+Author information:
+(1)School of Psychology and Counselling, Faculty of Health, Institute of Health 
+and Biomedical Innovation, Queensland University of Technology, Kelvin Grove, 
+QLD, Australia. divya.mehta@qut.edu.au.
+(2)Department of Translational Psychiatry, Max Planck Institute of Psychiatry, 
+Munich, Germany.
+
+Over the past decade, genome-wide association studies (GWAS) have evolved into a 
+powerful tool to investigate genetic risk factors for human diseases via a 
+hypothesis-free scan of the genome. The success of GWAS for psychiatric 
+disorders and behavioral traits have been somewhat mixed, partly owing to the 
+complexity and heterogeneity of these traits. Significant progress has been made 
+in the last few years in the development and implementation of complex 
+statistical methods and algorithms incorporating GWAS. Such advanced statistical 
+methods applied to GWAS hits in combination with incorporation of different 
+layers of genomics data have catapulted the search for novel genes for 
+behavioral traits and improved our understanding of the complex polygenic 
+architecture of these traits.This chapter will give a brief overview on GWAS and 
+statistical methods currently used in GWAS. The chapter will focus on reviewing 
+the current literature and highlight some of the most important GWAS on 
+psychiatric and other behavioral traits and will conclude with a discussion on 
+future directions.
+
+DOI: 10.1007/7854_2019_105
+PMID: 31407241 [Indexed for MEDLINE]
+
+
+22. Psychiatry Res. 2018 Dec;270:775-779. doi: 10.1016/j.psychres.2018.10.051. Epub 
+2018 Oct 27.
+
+The inflammasome NLRP12 is associated with both depression and coronary artery 
+disease in Vietnam veterans.
+
+Akosile W(1), Voisey J(2), Lawford B(2), Colquhounc D(3), Young RM(4), Mehta 
+D(5).
+
+Author information:
+(1)School of Psychology and Counselling, Faculty of Health, Institute of Health 
+and Biomedical Innovation, Queensland University of Technology, Kelvin Grove, 
+Queensland, Australia; Gallipoli Medical Research Institute, Greenslopes Private 
+Hospital, Newdegate Street, Greenslopes, Queensland 4120, Australia. Electronic 
+address: wole.akosile@hdr.qut.edu.au.
+(2)School of Biomedical Sciences, Faculty of Health, Institute of Health and 
+Biomedical Innovation, Queensland University of Technology, Kelvin Grove, 
+Queensland, Australia.
+(3)Gallipoli Medical Research Institute, Greenslopes Private Hospital, Newdegate 
+Street, Greenslopes, Queensland 4120, Australia.
+(4)School of Psychology and Counselling, Faculty of Health, Institute of Health 
+and Biomedical Innovation, Queensland University of Technology, Kelvin Grove, 
+Queensland, Australia; Gallipoli Medical Research Institute, Greenslopes Private 
+Hospital, Newdegate Street, Greenslopes, Queensland 4120, Australia.
+(5)School of Psychology and Counselling, Faculty of Health, Institute of Health 
+and Biomedical Innovation, Queensland University of Technology, Kelvin Grove, 
+Queensland, Australia.
+
+Several studies have established that Major depressive disorder is associated 
+with excess inflammation with an elevation of both pro and anti-inflammatory 
+cytokines in major depressive disorder. In addition, individuals with major 
+depressive disorder are at higher risk of developing coronary artery disease. 
+The role of innate immunity and NFκB-mediated inflammation in depression and its 
+increased association with coronary artery disease is yet to be fully 
+elucidated. Polymorphisms in the Nucleotide-Binding Oligomerization Domain, 
+Leucine Rich Repeat and Pyrin Domain Containing 12 (NLRP12), are associated with 
+depression and coronary artery disease in trauma exposed individuals. In a 
+cohort of Vietnam War veterans (n = 299) NLRP12 polymorphisms were analysed for 
+association with depression and coronary calcium scores. The NLRP12 
+polymorphism, rs34436714 was associated with a higher DASS21 Score for 
+depression (p = 0.037). NLRP12 polymorphisms rs34971363 and rs6509825 (p = 0.022 
+and p = 0.020) were associated with raised coronary calcium score. To our 
+knowledge, this is the first time rs34436714 has been investigated in Vietnam 
+veterans identifying AC as a risk genotype for depression in Caucasian cohorts. 
+It is also the first time the rs34971363 (CG) and rs6509825 (CT) genotype have 
+been associated with raised coronary calcium score.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.psychres.2018.10.051
+PMID: 30551324 [Indexed for MEDLINE]
+
+
+23. Brain Behav Immun. 2018 Nov;74:133-142. doi: 10.1016/j.bbi.2018.08.014. Epub 
+2018 Sep 4.
+
+Transcriptome analysis reveals novel genes and immune networks dysregulated in 
+veterans with PTSD.
+
+Mehta D(1), Voisey J(2), Bruenig D(3), Harvey W(4), Morris CP(2), Lawford B(3), 
+Young RM(5).
+
+Author information:
+(1)School of Psychology and Counselling, Faculty of Health, Institute of Health 
+and Biomedical Innovation, Queensland University of Technology, Kelvin Grove, 
+Queensland, Australia. Electronic address: divya.mehta@qut.edu.au.
+(2)School of Biomedical Sciences, Faculty of Health, Institute of Health and 
+Biomedical Innovation, Queensland University of Technology, Kelvin Grove, 
+Queensland, Australia.
+(3)School of Biomedical Sciences, Faculty of Health, Institute of Health and 
+Biomedical Innovation, Queensland University of Technology, Kelvin Grove, 
+Queensland, Australia; Gallipoli Medical Research Foundation, Greenslopes 
+Private Hospital, Newdegate Street, Greenslopes, QLD 4120, Australia.
+(4)Gallipoli Medical Research Foundation, Greenslopes Private Hospital, 
+Newdegate Street, Greenslopes, QLD 4120, Australia.
+(5)Faculty of Health, Institute of Health and Biomedical Innovation, Queensland 
+University of Technology, Kelvin Grove, Queensland, Australia.
+
+BACKGROUND: Posttraumatic stress disorder (PTSD) is a serious condition that 
+emerges following trauma exposure and involves long-lasting psychological 
+suffering and health-issues. Uncovering critical genes and molecular networks is 
+essential to understanding the biology of the disorder. We performed a 
+genome-wide scan to identify transcriptome signatures of PTSD.
+METHODS: Genome-wide peripheral blood transcriptomic data from 380 service 
+personnel were investigated. This included a discovery sample of 96 Australian 
+Vietnam War veterans and two independent pre and post-deployment replication 
+samples of U.S. Marines (N = 188 and N = 96).
+RESULTS: A total of 60 transcripts were differentially expressed between 
+veterans with and without PTSD, surviving Bonferroni multiple testing 
+correction. Genes within the cytokine-cytokine receptor interaction, Jak-STAT 
+signaling and Toll-like receptor signaling pathways were enriched. For 49% of 
+the genes, gene expression changes were also accompanied by DNA methylation 
+changes. Using replication data from two U.S. Marine cohorts, we observed that 
+of the differentially expressed genes, 71% genes also showed significant gene 
+expression changes between pre and post-deployment. Weighted gene co-expression 
+networks revealed two modules of genes associated with PTSD. The first module 
+(67 genes, p-value = 6e-4) was enriched for genes within the 11p13 locus 
+including BDNF. The second module (266 genes, p-value = 0.01) was enriched for 
+genes in 17q11 including SLC6A4, STAT5A and STAT5B.
+CONCLUSIONS: We identified novel transcriptomic loci and biological pathways for 
+PTSD in service personnel. Network analysis revealed enrichment of loci 
+harboring key candidate genes in PTSD. These findings highlight the role of 
+transcriptional biomarkers in the molecular etiology of PTSD.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbi.2018.08.014
+PMID: 30189241 [Indexed for MEDLINE]
+
+
+24. Nat Genet. 2018 May;50(5):668-681. doi: 10.1038/s41588-018-0090-3. Epub 2018 Apr 
+26.
+
+Genome-wide association analyses identify 44 risk variants and refine the 
+genetic architecture of major depression.
+
+Wray NR(#)(1)(2), Ripke S(#)(3)(4)(5), Mattheisen M(#)(6)(7)(8)(9), Trzaskowski 
+M(#)(10), Byrne EM(10), Abdellaoui A(11), Adams MJ(12), Agerbo E(8)(13)(14), Air 
+TM(15), Andlauer TMF(16)(17), Bacanu SA(18), Bækvad-Hansen M(8)(19), Beekman 
+AFT(20), Bigdeli TB(18)(21), Binder EB(16)(22), Blackwood DRH(12), Bryois J(23), 
+Buttenschøn HN(7)(8)(24), Bybjerg-Grauholm J(8)(19), Cai N(25)(26), Castelao 
+E(27), Christensen JH(6)(7)(8), Clarke TK(12), Coleman JIR(28), Colodro-Conde 
+L(29), Couvy-Duchesne B(30)(31), Craddock N(32), Crawford GE(33)(34), Crowley 
+CA(35), Dashti HS(3)(36), Davies G(37), Deary IJ(37), Degenhardt F(38)(39), 
+Derks EM(29), Direk N(40)(41), Dolan CV(11), Dunn EC(42)(43)(44), Eley TC(28), 
+Eriksson N(45), Escott-Price V(46), Kiadeh FHF(47), Finucane HK(48)(49), 
+Forstner AJ(38)(39)(50)(51), Frank J(52), Gaspar HA(28), Gill M(53), 
+Giusti-Rodríguez P(54), Goes FS(55), Gordon SD(56), Grove J(6)(7)(8)(57), Hall 
+LS(12)(58), Hannon E(59), Hansen CS(8)(19), Hansen TF(60)(61)(62), Herms 
+S(38)(39)(51), Hickie IB(63), Hoffmann P(38)(39)(51), Homuth G(64), Horn C(65), 
+Hottenga JJ(11), Hougaard DM(8)(19), Hu M(66), Hyde CL(67), Ising M(68), Jansen 
+R(20), Jin F(69)(70), Jorgenson E(71), Knowles JA(72), Kohane IS(73)(74)(75), 
+Kraft J(5), Kretzschmar WW(76), Krogh J(77), Kutalik Z(78)(79), Lane 
+JM(3)(36)(80), Li Y(76), Li Y(35)(54), Lind PA(29), Liu X(70), Lu L(70), 
+MacIntyre DJ(81)(82), MacKinnon DF(55), Maier RM(30), Maier W(83), Marchini 
+J(84), Mbarek H(11), McGrath P(85), McGuffin P(28), Medland SE(29), Mehta 
+D(30)(86), Middeldorp CM(11)(87)(88), Mihailov E(89), Milaneschi Y(20), Milani 
+L(89), Mill J(59), Mondimore FM(55), Montgomery GW(10), Mostafavi S(90)(91), 
+Mullins N(28), Nauck M(92)(93), Ng B(91), Nivard MG(11), Nyholt DR(94), O'Reilly 
+PF(28), Oskarsson H(95), Owen MJ(96), Painter JN(29), Pedersen CB(8)(13)(14), 
+Pedersen MG(8)(13)(14), Peterson RE(18)(97), Pettersson E(23), Peyrot WJ(20), 
+Pistis G(27), Posthuma D(98)(99), Purcell SM(100), Quiroz JA(101), Qvist 
+P(6)(7)(8), Rice JP(102), Riley BP(18), Rivera M(28)(103), Saeed Mirza S(41), 
+Saxena R(3)(36)(80), Schoevers R(104), Schulte EC(105)(106), Shen L(71), Shi 
+J(107), Shyn SI(108), Sigurdsson E(109), Sinnamon GBC(110), Smit JH(20), Smith 
+DJ(111), Stefansson H(112), Steinberg S(112), Stockmeier CA(113), Streit F(52), 
+Strohmaier J(52), Tansey KE(114), Teismann H(115), Teumer A(116), Thompson 
+W(8)(61)(117)(118), Thomson PA(119), Thorgeirsson TE(112), Tian C(45), Traylor 
+M(120), Treutlein J(52), Trubetskoy V(5), Uitterlinden AG(121), Umbricht D(122), 
+Van der Auwera S(123), van Hemert AM(124), Viktorin A(23), Visscher PM(10)(30), 
+Wang Y(8)(61)(117), Webb BT(125), Weinsheimer SM(8)(61), Wellmann J(115), 
+Willemsen G(11), Witt SH(52), Wu Y(10), Xi HS(126), Yang J(10)(30), Zhang F(10); 
+eQTLGen; 23andMe; Arolt V(127), Baune BT(15), Berger K(115), Boomsma DI(11), 
+Cichon S(38)(51)(128)(129), Dannlowski U(127), de Geus ECJ(11)(130), DePaulo 
+JR(55), Domenici E(131), Domschke K(132), Esko T(3)(89), Grabe HJ(123), Hamilton 
+SP(133), Hayward C(134), Heath AC(102), Hinds DA(45), Kendler KS(18), Kloiber 
+S(68)(135)(136), Lewis G(137), Li QS(138), Lucae S(68), Madden PFA(102), 
+Magnusson PK(23), Martin NG(56), McIntosh AM(12)(37), Metspalu A(89)(139), Mors 
+O(8)(140), Mortensen PB(7)(8)(13)(14), Müller-Myhsok B(16)(17)(141), Nordentoft 
+M(8)(142), Nöthen MM(38)(39), O'Donovan MC(96), Paciga SA(143), Pedersen NL(23), 
+Penninx BWJH(20), Perlis RH(43)(144), Porteous DJ(119), Potash JB(145), Preisig 
+M(27), Rietschel M(52), Schaefer C(71), Schulze TG(52)(55)(106)(146)(147), 
+Smoller JW(42)(43)(44), Stefansson K(112)(148), Tiemeier H(41)(149)(150), Uher 
+R(151), Völzke H(116), Weissman MM(85)(152), Werge T(8)(61)(153), Winslow 
+AR(154)(155), Lewis CM(28)(156), Levinson DF(157), Breen G(28)(158), Børglum 
+AD(6)(7)(8), Sullivan PF(159)(160)(161); Major Depressive Disorder Working Group 
+of the Psychiatric Genomics Consortium.
+
+Author information:
+(1)Institute for Molecular Bioscience, University of Queensland, Brisbane, 
+Queensland, Australia. naomi.wray@uq.edu.au.
+(2)Queensland Brain Institute, University of Queensland, Brisbane, Queensland, 
+Australia. naomi.wray@uq.edu.au.
+(3)Medical and Population Genetics, Broad Institute, Cambridge, MA, USA.
+(4)Analytic and Translational Genetics Unit, Massachusetts General Hospital, 
+Boston, MA, USA.
+(5)Department of Psychiatry and Psychotherapy, Universitätsmedizin Berlin Campus 
+Charité Mitte, Berlin, Germany.
+(6)Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+(7)iSEQ, Centre for Integrative Sequencing, Aarhus University, Aarhus, Denmark.
+(8)iPSYCH, Lundbeck Foundation Initiative for Integrative Psychiatric Research, 
+Aarhus, Denmark.
+(9)Centre for Psychiatry Research, Department of Clinical Neuroscience, 
+Karolinska Institutet, Stockholm, Sweden.
+(10)Institute for Molecular Bioscience, University of Queensland, Brisbane, 
+Queensland, Australia.
+(11)Department of Biological Psychology and EMGO+ Institute for Health and Care 
+Research, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands.
+(12)Division of Psychiatry, University of Edinburgh, Edinburgh, UK.
+(13)Centre for Integrated Register-Based Research, Aarhus University, Aarhus, 
+Denmark.
+(14)National Centre for Register-Based Research, Aarhus University, Aarhus, 
+Denmark.
+(15)Discipline of Psychiatry, University of Adelaide, Adelaide, South Australia, 
+Australia.
+(16)Department of Translational Research in Psychiatry, Max Planck Institute of 
+Psychiatry, Munich, Germany.
+(17)Munich Cluster for Systems Neurology (SyNergy), Munich, Germany.
+(18)Department of Psychiatry, Virginia Commonwealth University, Richmond, VA, 
+USA.
+(19)Center for Neonatal Screening, Department for Congenital Disorders, Statens 
+Serum Institut, Copenhagen, Denmark.
+(20)Department of Psychiatry, Vrije Universiteit Medical Center and GGZ inGeest, 
+Amsterdam, The Netherlands.
+(21)Virginia Institute for Psychiatric and Behavior Genetics, Richmond, VA, USA.
+(22)Department of Psychiatry and Behavioral Sciences, Emory University School of 
+Medicine, Atlanta, GA, USA.
+(23)Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+Stockholm, Sweden.
+(24)Department of Clinical Medicine, Translational Neuropsychiatry Unit, Aarhus 
+University, Aarhus, Denmark.
+(25)Statistical Genomics and Systems Genetics, European Bioinformatics Institute 
+(EMBL-EBI), Cambridge, UK.
+(26)Human Genetics, Wellcome Trust Sanger Institute, Cambridge, UK.
+(27)Department of Psychiatry, University Hospital of Lausanne, Prilly, 
+Switzerland.
+(28)MRC Social Genetic and Developmental Psychiatry Centre, King's College 
+London, London, UK.
+(29)Genetics and Computational Biology, QIMR Berghofer Medical Research 
+Institute, Herston, Queensland, Australia.
+(30)Queensland Brain Institute, University of Queensland, Brisbane, Queensland, 
+Australia.
+(31)Centre for Advanced Imaging, University of Queensland, Brisbane, Queensland, 
+Australia.
+(32)Psychological Medicine, Cardiff University, Cardiff, UK.
+(33)Center for Genomic and Computational Biology, Duke University, Durham, NC, 
+USA.
+(34)Department of Pediatrics, Division of Medical Genetics, Duke University, 
+Durham, NC, USA.
+(35)Biostatistics, University of North Carolina at Chapel Hill, Chapel Hill, NC, 
+USA.
+(36)Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, 
+USA.
+(37)Centre for Cognitive Ageing and Cognitive Epidemiology, University of 
+Edinburgh, Edinburgh, UK.
+(38)Institute of Human Genetics, University of Bonn, Bonn, Germany.
+(39)Life & Brain Center, Department of Genomics, University of Bonn, Bonn, 
+Germany.
+(40)Psychiatry, Dokuz Eylul University School of Medicine, Izmir, Turkey.
+(41)Epidemiology, Erasmus MC, Rotterdam, The Netherlands.
+(42)Stanley Center for Psychiatric Research, Broad Institute, Cambridge, MA, 
+USA.
+(43)Department of Psychiatry, Massachusetts General Hospital, Boston, MA, USA.
+(44)Psychiatric and Neurodevelopmental Genetics Unit (PNGU), Massachusetts 
+General Hospital, Boston, MA, USA.
+(45)Research, 23andMe, Inc., Mountain View, CA, USA.
+(46)Neuroscience and Mental Health, Cardiff University, Cardiff, UK.
+(47)Bioinformatics, University of British Columbia, Vancouver, British Columbia, 
+Canada.
+(48)Department of Epidemiology, Harvard T. H. Chan School of Public Health, 
+Boston, MA, USA.
+(49)Department of Mathematics, Massachusetts Institute of Technology, Cambridge, 
+MA, USA.
+(50)Department of Psychiatry (UPK), University of Basel, Basel, Switzerland.
+(51)Human Genomics Research Group, Department of Biomedicine, University of 
+Basel, Basel, Switzerland.
+(52)Department of Genetic Epidemiology in Psychiatry, Central Institute of 
+Mental Health, Medical Faculty Mannheim, Heidelberg University, Mannheim, 
+Germany.
+(53)Department of Psychiatry, Trinity College Dublin, Dublin, Ireland.
+(54)Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+(55)Psychiatry and Behavioral Sciences, Johns Hopkins University, Baltimore, MD, 
+USA.
+(56)Genetics and Computational Biology, QIMR Berghofer Medical Research 
+Institute, Brisbane, Queensland, Australia.
+(57)Bioinformatics Research Centre, Aarhus University, Aarhus, Denmark.
+(58)Institute of Genetic Medicine, Newcastle University, Newcastle-upon-Tyne, 
+UK.
+(59)University of Exeter Medical School, Exeter, UK.
+(60)Danish Headache Centre, Department of Neurology, Rigshospitalet, Glostrup, 
+Denmark.
+(61)Institute of Biological Psychiatry, Mental Health Center Sct. Hans, Mental 
+Health Services Capital Region of Denmark, Copenhagen, Denmark.
+(62)iPSYCH, Lundbeck Foundation Initiative for Psychiatric Research, Copenhagen, 
+Denmark.
+(63)Brain and Mind Centre, University of Sydney, Sydney, New South Wales, 
+Australia.
+(64)Interfaculty Institute for Genetics and Functional Genomics, Department of 
+Functional Genomics, University Medicine and Ernst Moritz Arndt University 
+Greifswald, Greifswald, Germany.
+(65)Roche Pharmaceutical Research and Early Development, Pharmaceutical 
+Sciences, Roche Innovation Center Basel, F. Hoffmann-La Roche, Ltd, Basel, 
+Switzerland.
+(66)Quantitative Health Sciences, Cleveland Clinic, Cleveland, OH, USA.
+(67)Statistics, Pfizer Global Research and Development, Groton, CT, USA.
+(68)Max Planck Institute of Psychiatry, Munich, Germany.
+(69)Case Comprehensive Cancer Center, Case Western Reserve University, 
+Cleveland, OH, USA.
+(70)Department of Genetics and Genome Sciences, Case Western Reserve University, 
+Cleveland, OH, USA.
+(71)Division of Research, Kaiser Permanente Northern California, Oakland, CA, 
+USA.
+(72)Psychiatry and Behavioral Sciences, University of Southern California, Los 
+Angeles, CA, USA.
+(73)Informatics Program, Boston Children's Hospital, Boston, MA, USA.
+(74)Department of Medicine, Brigham and Women's Hospital, Boston, MA, USA.
+(75)Department of Biomedical Informatics, Harvard Medical School, Boston, MA, 
+USA.
+(76)Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, UK.
+(77)Department of Endocrinology at Herlev University Hospital, University of 
+Copenhagen, Copenhagen, Denmark.
+(78)Swiss Institute of Bioinformatics, Lausanne, Switzerland.
+(79)Institute of Social and Preventive Medicine (IUMSP), University Hospital of 
+Lausanne, Lausanne, Switzerland.
+(80)Department of Anesthesia, Critical Care and Pain Medicine, Massachusetts 
+General Hospital, Boston, MA, USA.
+(81)Mental Health, NHS 24, Glasgow, UK.
+(82)Division of Psychiatry, Centre for Clinical Brain Sciences, University of 
+Edinburgh, Edinburgh, UK.
+(83)Department of Psychiatry and Psychotherapy, University of Bonn, Bonn, 
+Germany.
+(84)Statistics, University of Oxford, Oxford, UK.
+(85)Psychiatry, Columbia University College of Physicians and Surgeons, New 
+York, NY, USA.
+(86)School of Psychology and Counseling, Queensland University of Technology, 
+Brisbane, Queensland, Australia.
+(87)Child and Youth Mental Health Service, Children's Health Queensland Hospital 
+and Health Service, South Brisbane, Queensland, Australia.
+(88)Child Health Research Centre, University of Queensland, Brisbane, 
+Queensland, Australia.
+(89)Estonian Genome Center, University of Tartu, Tartu, Estonia.
+(90)Medical Genetics, University of British Columbia, Vancouver, British 
+Columbia, Canada.
+(91)Statistics, University of British Columbia, Vancouver, British Columbia, 
+Canada.
+(92)DZHK (German Centre for Cardiovascular Research), partner site Greifswald, 
+University Medicine, University Medicine Greifswald, Greifswald, Germany.
+(93)Institute of Clinical Chemistry and Laboratory Medicine, University Medicine 
+Greifswald, Greifswald, Germany.
+(94)Institute of Health and Biomedical Innovation, Queensland University of 
+Technology, Brisbane, Queensland, Australia.
+(95)Humus, Reykjavik, Iceland.
+(96)MRC Centre for Neuropsychiatric Genetics and Genomics, Cardiff University, 
+Cardiff, UK.
+(97)Virginia Institute for Psychiatric and Behavioral Genetics, Virginia 
+Commonwealth University, Richmond, VA, USA.
+(98)Complex Trait Genetics, Vrije Universiteit Amsterdam, Amsterdam, The 
+Netherlands.
+(99)Clinical Genetics, Vrije Universiteit Medical Center, Amsterdam, The 
+Netherlands.
+(100)Department of Psychiatry, Brigham and Women's Hospital, Boston, MA, USA.
+(101)Solid Biosciences, Boston, MA, USA.
+(102)Department of Psychiatry, Washington University in St. Louis School of 
+Medicine, St. Louis, MO, USA.
+(103)Department of Biochemistry and Molecular Biology II, Institute of 
+Neurosciences, Center for Biomedical Research, University of Granada, Granada, 
+Spain.
+(104)Department of Psychiatry, University of Groningen, University Medical 
+Center Groningen, Groningen, The Netherlands.
+(105)Department of Psychiatry and Psychotherapy, Medical Center of the 
+University of Munich, Campus Innenstadt, Munich, Germany.
+(106)Institute of Psychiatric Phenomics and Genomics (IPPG), Medical Center of 
+the University of Munich, Campus Innenstadt, Munich, Germany.
+(107)Division of Cancer Epidemiology and Genetics, National Cancer Institute, 
+Bethesda, MD, USA.
+(108)Behavioral Health Services, Kaiser Permanente Washington, Seattle, WA, USA.
+(109)Faculty of Medicine, Department of Psychiatry, University of Iceland, 
+Reykjavik, Iceland.
+(110)School of Medicine and Dentistry, James Cook University, Townsville, 
+Queensland, Australia.
+(111)Institute of Health and Wellbeing, University of Glasgow, Glasgow, UK.
+(112)deCODE Genetics/Amgen, Inc., Reykjavik, Iceland.
+(113)Psychiatry and Human Behavior, University of Mississippi Medical Center, 
+Jackson, MS, USA.
+(114)College of Biomedical and Life Sciences, Cardiff University, Cardiff, UK.
+(115)Institute of Epidemiology and Social Medicine, University of Münster, 
+Münster, Germany.
+(116)Institute for Community Medicine, University Medicine Greifswald, 
+Greifswald, Germany.
+(117)KG Jebsen Centre for Psychosis Research, Norway Division of Mental Health 
+and Addiction, Oslo University Hospital, Oslo, Norway.
+(118)Department of Psychiatry, University of California, San Diego, La Jolla, 
+CA, USA.
+(119)Medical Genetics Section, CGEM, IGMM, University of Edinburgh, Edinburgh, 
+UK.
+(120)Clinical Neurosciences, University of Cambridge, Cambridge, UK.
+(121)Internal Medicine, Erasmus MC, Rotterdam, The Netherlands.
+(122)Roche Pharmaceutical Research and Early Development, Neuroscience, 
+Ophthalmology and Rare Diseases Discovery and Translational Medicine Area, Roche 
+Innovation Center Basel, F. Hoffmann-La Roche, Ltd, Basel, Switzerland.
+(123)Department of Psychiatry and Psychotherapy, University Medicine Greifswald, 
+Greifswald, Germany.
+(124)Department of Psychiatry, Leiden University Medical Center, Leiden, The 
+Netherlands.
+(125)Virginia Institute of Psychiatric and Behavioral Genetics, Virginia 
+Commonwealth University, Richmond, VA, USA.
+(126)Computational Sciences Center of Emphasis, Pfizer Global Research and 
+Development, Cambridge, MA, USA.
+(127)Department of Psychiatry, University of Münster, Munster, Germany.
+(128)Institute of Neuroscience and Medicine (INM-1), Research Center Juelich, 
+Juelich, Germany.
+(129)Institute of Medical Genetics and Pathology, University Hospital Basel, 
+University of Basel, Basel, Switzerland.
+(130)Amsterdam Public Health Institute, Vrije Universiteit Medical Center, 
+Amsterdam, The Netherlands.
+(131)Centre for Integrative Biology, Università degli Studi di Trento, Trento, 
+Italy.
+(132)Department of Psychiatry and Psychotherapy, Medical Center, Faculty of 
+Medicine, University of Freiburg, Freiburg, Germany.
+(133)Psychiatry, Kaiser Permanente Northern California, San Francisco, CA, USA.
+(134)MRC Human Genetics Unit, Institute of Genetics and Molecular Medicine, 
+University of Edinburgh, Edinburgh, UK.
+(135)Centre for Addiction and Mental Health, Toronto, Ontario, Canada.
+(136)Department of Psychiatry, University of Toronto, Toronto, Ontario, Canada.
+(137)Division of Psychiatry, University College London, London, UK.
+(138)Neuroscience Therapeutic Area, Janssen Research and Development, LLC, 
+Titusville, NJ, USA.
+(139)Institute of Molecular and Cell Biology, University of Tartu, Tartu, 
+Estonia.
+(140)Psychosis Research Unit, Aarhus University Hospital, Risskov, Aarhus, 
+Denmark.
+(141)Institute of Translational Medicine, University of Liverpool, Liverpool, 
+UK.
+(142)Mental Health Center Copenhagen, Copenhagen University Hospital, 
+Copenhagen, Denmark.
+(143)Human Genetics and Computational Biomedicine, Pfizer Global Research and 
+Development, Groton, CT, USA.
+(144)Psychiatry, Harvard Medical School, Boston, MA, USA.
+(145)Psychiatry, University of Iowa, Iowa City, IA, USA.
+(146)Human Genetics Branch, NIMH Division of Intramural Research Programs, 
+Bethesda, MD, USA.
+(147)Department of Psychiatry and Psychotherapy, University Medical Center 
+Göttingen, Göttingen, Germany.
+(148)Faculty of Medicine, University of Iceland, Reykjavik, Iceland.
+(149)Child and Adolescent Psychiatry, Erasmus MC, Rotterdam, The Netherlands.
+(150)Psychiatry, Erasmus MC, Rotterdam, The Netherlands.
+(151)Psychiatry, Dalhousie University, Halifax, Nova Scotia, Canada.
+(152)Division of Epidemiology, New York State Psychiatric Institute, New York, 
+NY, USA.
+(153)Department of Clinical Medicine, University of Copenhagen, Copenhagen, 
+Denmark.
+(154)Human Genetics and Computational Biomedicine, Pfizer Global Research and 
+Development, Cambridge, MA, USA.
+(155)Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, 
+USA.
+(156)Department of Medical and Molecular Genetics, King's College London, 
+London, UK.
+(157)Psychiatry and Behavioral Sciences, Stanford University, Stanford, CA, USA.
+(158)NIHR BRC for Mental Health, King's College London, London, UK.
+(159)Department of Medical Epidemiology and Biostatistics, Karolinska 
+Institutet, Stockholm, Sweden. pfsulliv@med.unc.edu.
+(160)Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC, 
+USA. pfsulliv@med.unc.edu.
+(161)Psychiatry, University of North Carolina at Chapel Hill, Chapel Hill, NC, 
+USA. pfsulliv@med.unc.edu.
+(#)Contributed equally
+
+Major depressive disorder (MDD) is a common illness accompanied by considerable 
+morbidity, mortality, costs, and heightened risk of suicide. We conducted a 
+genome-wide association meta-analysis based in 135,458 cases and 344,901 
+controls and identified 44 independent and significant loci. The genetic 
+findings were associated with clinical features of major depression and 
+implicated brain regions exhibiting anatomical differences in cases. Targets of 
+antidepressant medications and genes involved in gene splicing were enriched for 
+smaller association signal. We found important relationships of genetic risk for 
+major depression with educational attainment, body mass, and schizophrenia: 
+lower educational attainment and higher body mass were putatively causal, 
+whereas major depression and schizophrenia reflected a partly shared biological 
+etiology. All humans carry lesser or greater numbers of genetic risk factors for 
+major depression. These findings help refine the basis of major depression and 
+imply that a continuous measure of risk underlies the clinical phenotype.
+
+DOI: 10.1038/s41588-018-0090-3
+PMCID: PMC5934326
+PMID: 29700475 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Financial Interests Aartjan TF 
+Beekman: Speakers bureaus of Lundbeck and GlaxoSmithKline. Greg Crawford: 
+Co-founder of Element Genomics. Enrico Domenici: Employee of Hoffmann-La Roche 
+at the time this study was conducted, consultant to Roche and Pierre-Fabre. 
+Nicholas Eriksson: Employed by 23andMe, Inc. and owns stock in 23andMe, Inc. 
+David Hinds: Employee of and own stock options in 23andMe, Inc. Sara Paciga: 
+Employee of Pfizer, Inc. Craig L Hyde: Employee of Pfizer, Inc. Ashley R 
+Winslow: Former employee and stockholder of Pfizer, Inc. Jorge A Quiroz: 
+Employee of Hoffmann-La Roche at the time this study was conducted. Hreinn 
+Stefansson: Employee of deCODE Genetics/AMGEN. Kari Stefansson: Employee of 
+deCODE Genetics/AMGEN. Stacy Steinberg: Employee of deCODE Genetics/AMGEN. 
+Patrick F Sullivan: Scientific advisory board for Pfizer Inc and an advisory 
+committee for Lundbeck. Thorgeir E Thorgeirsson: Employee of deCODE 
+Genetics/AMGEN. Chao Tian: Employee of and own stock options in 23andMe, Inc.
+
+
+25. Psychiatry Res. 2018 Feb;260:193-198. doi: 10.1016/j.psychres.2017.11.069. Epub 
+2017 Nov 28.
+
+Correlation between interferon γ and interleukin 6 with PTSD and resilience.
+
+Bruenig D(1), Mehta D(2), Morris CP(3), Lawford B(3), Harvey W(4), McD Young 
+R(2), Voisey J(5).
+
+Author information:
+(1)Institute of Health and Biomedical Innovation (IHBI) and School of Biomedical 
+Sciences, 60 Musk Avenue, Queensland University of Technology, Kelvin Grove, 
+Queensland 4059, Australia; Gallipoli Medical Research Institute, Greenslopes 
+Private Hospital, Newdegate Street, Greenslopes, Queensland 4120, Australia.
+(2)Institute of Health and Biomedical Innovation (IHBI) and School of 
+Psychological and Counselling, 60 Musk Avenue, Queensland University of 
+Technology, Kelvin Grove, Queensland 4059, Australia.
+(3)Institute of Health and Biomedical Innovation (IHBI) and School of Biomedical 
+Sciences, 60 Musk Avenue, Queensland University of Technology, Kelvin Grove, 
+Queensland 4059, Australia.
+(4)Gallipoli Medical Research Institute, Greenslopes Private Hospital, Newdegate 
+Street, Greenslopes, Queensland 4120, Australia.
+(5)Institute of Health and Biomedical Innovation (IHBI) and School of Biomedical 
+Sciences, 60 Musk Avenue, Queensland University of Technology, Kelvin Grove, 
+Queensland 4059, Australia. Electronic address: j.voisey@qut.edu.au.
+
+Posttraumatic Stress Disorder (PTSD) is a debilitating psychiatric disorder with 
+decreased general health prognosis and increased mortality. Inflammation has 
+been hypothesised to be a link between PTSD and the most common co-morbid 
+medical disorders. However, the relationship between inflammation and PTSD is 
+not clear. Individual inflammatory markers have shown variable associations with 
+PTSD. This study investigates the correlations between serum cytokines, PTSD and 
+resilience in a cohort of Caucasian Vietnam combat veterans (n = 299). After 
+correction for multiple testing, PTSD severity was correlated with small but 
+significant decreases in interleukin 6 and interferon γ (p = 0.004, p = 0.013, 
+respectively) whereas resilience was correlated with increased levels of 
+interleukin 6 and interferon γ (p = 0.023; p = 0.007, respectively). Analyses of 
+sub-symptoms of PTSD revealed that mood and arousal symptoms showed the most 
+significant effect on interleukin 6 and interferon γ. More research is needed to 
+further elucidate the mechanisms underlying the relationship between cytokine 
+levels, PTSD sub-symptoms and trauma outcomes to improve the knowledge base of 
+differences in trauma response and the biological system.
+
+Crown Copyright © 2017. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.psychres.2017.11.069
+PMID: 29202383 [Indexed for MEDLINE]
+
+
+26. NPJ Schizophr. 2017 Sep 4;3(1):26. doi: 10.1038/s41537-017-0026-4.
+
+Epigenetic analysis confirms no accelerated brain aging in schizophrenia.
+
+Voisey J(1), Lawford BR(2), Morris CP(1), Wockner LF(3), Noble EP(4), Young 
+RM(5), Mehta D(6).
+
+Author information:
+(1)School of Biomedical Sciences, Faculty of Health, Institute of Health and 
+Biomedical Innovation, Queensland University of Technology, Brisbane, QLD, 
+Australia.
+(2)School of Psychology and Counselling, Faculty of Health, Institute of Health 
+and Biomedical Innovation, Queensland University of Technology, Brisbane, QLD, 
+Australia.
+(3)Queensland Institute of Medical Research, Brisbane, QLD, Australia.
+(4)Department of Psychiatry and Biobehavioral Sciences, University of 
+California, Los Angeles, CA, USA.
+(5)Faculty of Health, Institute of Health and Biomedical Innovation, Queensland 
+University of Technology, Brisbane, QLD, Australia.
+(6)School of Psychology and Counselling, Faculty of Health, Institute of Health 
+and Biomedical Innovation, Queensland University of Technology, Brisbane, QLD, 
+Australia. divya.mehta@qut.edu.au.
+
+Epigenetic aging is associated with several biological mechanisms and diseases. 
+We assessed two brain data sets, one small (n = 48) and one large (n = 392), to 
+test epigenetic aging in schizophrenia. DNA methylation age from frontal cortex 
+was significantly correlated with chronological age but no significant 
+differences in DNA methylation age acceleration between schizophrenia cases and 
+controls were observed in both data sets. Our results were consistent with a 
+previous study investigating schizophrenia and epigenetic aging in superior 
+temporal gyrus. Future studies targeting different brain regions and defined 
+cell types are warranted to further investigate accelerated brain aging in 
+schizophrenia.
+
+DOI: 10.1038/s41537-017-0026-4
+PMCID: PMC5583345
+PMID: 28871179
+
+Conflict of interest statement: The authors declare that they have no competing 
+financial interests.
+
+
+27. Gene. 2017 Aug 20;625:42-48. doi: 10.1016/j.gene.2017.04.048. Epub 2017 Apr 29.
+
+Nitric oxide pathway genes (NOS1AP and NOS1) are involved in PTSD severity, 
+depression, anxiety, stress and resilience.
+
+Bruenig D(1), Morris CP(2), Mehta D(3), Harvey W(4), Lawford B(3), Young RM(3), 
+Voisey J(5).
+
+Author information:
+(1)Institute of Health and Biomedical Innovation (IHBI) and School of Biomedical 
+Sciences, 60 Musk Avenue, Queensland University of Technology, Kelvin Grove, 
+Queensland 4059, Australia; Gallipoli Medical Research Institute, Greenslopes 
+Private Hospital, Newdegate Street, Greenslopes QLD 4120, Australia.
+(2)Institute of Health and Biomedical Innovation (IHBI) and School of Psychology 
+and Counselling, 60 Musk Avenue, Queensland University of Technology, Kelvin 
+Grove, Queensland 4059, Australia.
+(3)Institute of Health and Biomedical Innovation (IHBI) and School of Biomedical 
+Sciences, 60 Musk Avenue, Queensland University of Technology, Kelvin Grove, 
+Queensland 4059, Australia.
+(4)Gallipoli Medical Research Institute, Greenslopes Private Hospital, Newdegate 
+Street, Greenslopes QLD 4120, Australia.
+(5)Institute of Health and Biomedical Innovation (IHBI) and School of Biomedical 
+Sciences, 60 Musk Avenue, Queensland University of Technology, Kelvin Grove, 
+Queensland 4059, Australia. Electronic address: j.voisey@qut.edu.au.
+
+The nitric oxide pathway in the hippocampus is involved in the biological stress 
+response with detrimental consequences to cells and HPA axis feedback. 
+Hippocampal atrophy and HPA axis feedback dysfunction are associated with 
+posttraumatic stress disorder (PTSD). This study systematically investigates two 
+genes of the nitric oxide pathway NOS1AP and NOS1 for a potential involvement in 
+PTSD, comorbidities and resilience. A cohort of age and gender matched Vietnam 
+veterans including trauma-exposed cases and controls was recruited and 
+comprehensively assessed (n=299). A total of 49 NOS1AP and 16 NOS1 polymorphisms 
+were analysed and genotypes correlated with gold standard clinical measures to 
+assess PTSD severity and related phenotypes (depression, anxiety, stress, 
+resilience) based on diagnostic status. Multiple NOS1AP polymorphisms were 
+associated across all measures, and NOS1 polymorphisms were associated with PTSD 
+severity, stress and resilience. The GG genotype of NOS1 polymorphism rs10744891 
+was associated with PTSD severity (surviving multiple correction) while the 
+combined TT-TG genotypes were associated with resilience (p=0.005; p=0.033, 
+respectively). This study indicates that NOS1AP and NOS1 from the nitric oxide 
+pathway are likely to play a key role in PTSD, its comorbidities and resilience. 
+Given the essential role of NOS1AP and NOS1 in stress response they may be 
+reliable targets for screening and intervention strategies.
+
+Crown Copyright © 2017. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.gene.2017.04.048
+PMID: 28465168 [Indexed for MEDLINE]
+
+
+28. Compr Psychiatry. 2017 Apr;74:125-133. doi: 10.1016/j.comppsych.2017.01.015. 
+Epub 2017 Jan 24.
+
+Genetic and serum biomarker evidence for a relationship between TNFα and PTSD in 
+Vietnam war combat veterans.
+
+Bruenig D(1), Mehta D(2), Morris CP(2), Harvey W(3), Lawford B(2), Young RM(2), 
+Voisey J(4).
+
+Author information:
+(1)Institute of Health and Biomedical Innovation (IHBI) and School of Biomedical 
+Sciences, 60 Musk Avenue, Queensland University of Technology, Kelvin Grove, 
+Queensland, 4059, Australia; Gallipoli Medical Research Institute, Greenslopes 
+Private Hospital, Newdegate Street, Greenslopes, Queensland, 4120, Australia.
+(2)Institute of Health and Biomedical Innovation (IHBI) and School of Biomedical 
+Sciences, 60 Musk Avenue, Queensland University of Technology, Kelvin Grove, 
+Queensland, 4059, Australia.
+(3)Gallipoli Medical Research Institute, Greenslopes Private Hospital, Newdegate 
+Street, Greenslopes, Queensland, 4120, Australia.
+(4)Institute of Health and Biomedical Innovation (IHBI) and School of Biomedical 
+Sciences, 60 Musk Avenue, Queensland University of Technology, Kelvin Grove, 
+Queensland, 4059, Australia. Electronic address: j.voisey@qut.edu.au.
+
+BACKGROUND: Posttraumatic stress disorder (PTSD) is associated with increased 
+inflammation and comorbid medical conditions. However, study findings for 
+individual inflammatory marker levels have been inconsistent. Some research 
+suggests that resilience may play a role in decreased inflammation. A 
+polymorphism in the promoter region of the tumor necrosis factor α gene (TNFα), 
+TNFA -308 (rs1800629) is associated with psychiatric illness but its role in 
+PTSD is yet to be elucidated.
+OBJECTIVE: This study investigates a key inflammatory marker, TNFα, for its role 
+in PTSD severity.
+METHOD: In a cohort of trauma-exposed Vietnam War veterans (n=299; 159 cases, 
+140 controls) TNF α serum levels and TNFα polymorphism rs1800629 were correlated 
+with PTSD severity and resilience scores.
+RESULTS: The polymorphism was associated with PTSD severity (p=0.045). There 
+were significant group differences between cases and controls with regards to 
+serum TNFα levels (p=0.036). Significant correlations were found between PTSD 
+severity and elevated TNFα levels (r=0.153; p=0.009), and between resilience and 
+decreased TNFα levels at a trend level (p=0.08) across the entire cohort. These 
+relationships were non-significant after controlling for covariates. In the PTSD 
+diagnostic group, a correlation of TNFα and PTSD severity was observed on a 
+trend level (p=0.06), the relationship between TNFα and resilience remained 
+non-significant.
+CONCLUSIONS: To our knowledge, this is the first time rs1800629 has been 
+investigated in PTSD contributing to a growing body of literature that 
+identifies the GG as a risk genotype for psychiatric disorders in Caucasian 
+cohorts. However, more research is needed to replicate our results in larger, 
+equally well-characterized cohorts. The relationship between serum TNFα levels 
+and PTSD severity and resilience requires further investigation.
+
+Crown Copyright © 2017. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.comppsych.2017.01.015
+PMID: 28160694 [Indexed for MEDLINE]
+
+
+29. Brain Behav Immun. 2017 Mar;61:259-265. doi: 10.1016/j.bbi.2016.12.006. Epub 
+2016 Dec 8.
+
+Clinically proven drug targets differentially expressed in the prefrontal cortex 
+of schizophrenia patients.
+
+Voisey J(1), Mehta D(2), McLeay R(2), Morris CP(2), Wockner LF(3), Noble EP(4), 
+Lawford BR(2), Young RM(2).
+
+Author information:
+(1)Institute of Health and Biomedical Innovation, Queensland University of 
+Technology, Brisbane, Queensland, Australia. Electronic address: 
+j.voisey@qut.edu.au.
+(2)Institute of Health and Biomedical Innovation, Queensland University of 
+Technology, Brisbane, Queensland, Australia.
+(3)Queensland Institute of Medical Research, Brisbane, Queensland, Australia.
+(4)Department of Psychiatry and Biobehavioral Sciences, University of 
+California, Los Angeles, CA, USA.
+
+BACKGROUND: Due to the heterogeneous nature of schizophrenia, understanding the 
+genetic risk for the disease is a complex task. Gene expression studies have 
+proven to be more reliable than association studies as they are consistently 
+replicated in a tissue specific manner.
+METHODS: Using RNA-Seq we analysed gene expression in the frontal cortex of 24 
+individuals with schizophrenia and 25 unaffected controls.
+RESULTS: We identified 1146 genes that were differentially expressed in 
+schizophrenia, approximately 60% of which were up-regulated and 366 of 1146 
+(32%) also have aberrant DNA methylation (p=2.46×10-39). The differentially 
+expressed genes were significantly overrepresented in several pathways including 
+inflammatory (p=8.7×10-3) and nitric oxide pathways (p=9.2×10-4). Moreover, 
+these genes were significantly enriched for those with a druggable genome 
+(p=0.04). We identified a number of genes that are significantly up-regulated in 
+schizophrenia as confirmed in other gene expression studies using different 
+brain tissues. Of the 349 genes associated with schizophrenia from the 
+Psychiatric Genomics Consortium we identified 16 genes that are significant from 
+our list of differentially expressed genes.
+CONCLUSIONS: Our results identified biological functional genes that are 
+differentially expressed in schizophrenia. A subset of these genes are 
+clinically proven drug targets. We also found a strong pattern of differentially 
+expressed immune response genes that may reflect an underlying defect in 
+schizophrenia.
+
+Crown Copyright Â© 2016. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbi.2016.12.006
+PMID: 27940260 [Indexed for MEDLINE]
+
+
+30. Neuropharmacology. 2014 May;80:115-32. doi: 10.1016/j.neuropharm.2014.01.013. 
+Epub 2014 Jan 19.
+
+The role of DNA methylation in stress-related psychiatric disorders.
+
+Klengel T(1), Pape J(1), Binder EB(2), Mehta D(3).
+
+Author information:
+(1)Department of Translational Research, Max Planck Institute of Psychiatry, 
+Munich 80804, Germany.
+(2)Department of Translational Research, Max Planck Institute of Psychiatry, 
+Munich 80804, Germany; Department of Psychiatry and Behavioral Sciences, Emory 
+University School of Medicine, Atlanta, GA 30322, USA. Electronic address: 
+ebinder@emory.edu.
+(3)Department of Translational Research, Max Planck Institute of Psychiatry, 
+Munich 80804, Germany; Queensland Brain Institute, University of Queensland, 
+Brisbane 4072, Australia. Electronic address: dmehta1@uq.edu.au.
+
+Epigenetic modifications in response to traumatic experience and stress are 
+emerging as important factors in the long-term biological trajectories leading 
+to stress-related psychiatric disorders, reflecting both environmental 
+influences as well as individual genetic predisposition. In particular, recent 
+evidence on DNA methylation changes within distinct genes and pathways but also 
+on a genome-wide level provides new insights into the pathophysiology of stress 
+related psychiatric disorders. This review summarizes current findings and 
+concepts on DNA methylation changes in stress-related disorders with a focus on 
+major depressive disorder and posttraumatic stress disorder (PTSD). We highlight 
+studies of DNA methylation in animals and humans pertinent to these disorders, 
+both focusing on candidate loci as well as genome-wide studies. We describe 
+molecular mechanisms of how exposure to stress can induce long lasting changes 
+in DNA methylation and how these may relate to the pathophysiology of depression 
+and PTSD. We discuss data suggesting that DNA methylation, even in peripheral 
+tissues, appears to be an informative reflection of environmental exposures on 
+the genome and may have potential as a biomarker for the early prevention of 
+stress-related disorders.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuropharm.2014.01.013
+PMID: 24452011 [Indexed for MEDLINE]
